@@ -1,14 +1,15 @@
-**Customer Purchase Behavior Analysis for Amazon**
-**Overview**
+# Customer Purchase Behavior Analysis for Amazon
+## Overview
+
 This project analyzes customer purchase behavior on Amazon, one of the largest e-commerce platforms globally. By leveraging customer demographics, product performance data, and transaction details, the analysis aims to provide insights into purchasing trends, customer preferences, and product success. The ultimate goal is to help optimize marketing strategies, enhance product recommendations, and improve the overall customer experience.
 
-Key Features:
+## Key Features:
 Exploratory Data Analysis (EDA): Uncover trends, correlations, and patterns in the data.
 Data from multiple sources:
 Customer demographics in Excel format.
 Product information in CSV.
 Transaction details in JSON.
-Project Steps
+## Project Steps
 1. Data Collection
 Data from three sources are merged using common identifiers such as Customer_ID and Product_ID. The datasets include:
 
