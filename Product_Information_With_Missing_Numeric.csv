@@ -1,0 +1,2001 @@
+Product_ID,Product_Name,Category,Price,Stock_Level,Supplier,Discount,Rating
+202,Book,Home Appliances,838.6650796785611,290,Supplier C,3,3
+535,Book,Books,212.9501143401699,332,Supplier A,21,2
+960,Phone,Home Appliances,452.32754118601974,179,Supplier B,21,2
+370,Shirt,Toys,215.4233658033643,414,Supplier A,36,5
+206,Refrigerator,Electronics,279.18238033384694,357,Supplier B,38,5
+171,Phone,Toys,513.4760418816484,234,Supplier A,33,1
+800,Shirt,Clothing,86.74684422905209,342,Supplier A,32,4
+120,,Clothing,233.81084300140773,195,Supplier A,43,3
+714,Phone,Books,936.670598080975,307,Supplier A,41,5
+221,Book,Toys,476.7939668053192,79,Supplier C,39,2
+566,,Books,456.4787954583148,134,Supplier A,32,1
+314,Book,Books,,21,Supplier C,11,3
+430,Phone,Clothing,,476,Supplier B,1,2
+558,,Books,868.9665872625377,330,Supplier B,27,2
+187,Laptop,Clothing,181.33585969349537,439,Supplier C,9,4
+472,Refrigerator,Electronics,,224,Supplier B,21,4
+199,Shirt,Toys,34.04428774966123,57,Supplier B,16,5
+971,Refrigerator,Books,488.76877203714474,92,Supplier A,25,5
+763,Book,Clothing,40.60068459169281,191,Supplier A,2,2
+230,Shirt,Home Appliances,823.2173620044839,102,Supplier A,6,2
+761,Book,Books,828.3566921373615,395,Supplier C,43,5
+408,Laptop,Electronics,,6,Supplier C,7,5
+869,Phone,Electronics,297.6967875132958,127,Supplier B,19,2
+443,Shirt,Home Appliances,840.4924738573817,54,Supplier A,11,3
+591,Laptop,Clothing,552.1381699531639,230,Supplier C,34,2
+513,Laptop,Books,,361,Supplier C,16,3
+905,Shirt,Clothing,632.8233605101483,61,Supplier A,27,3
+485,Book,Electronics,32.094225139166525,239,Supplier C,40,2
+291,Laptop,Clothing,160.1016600487371,89,Supplier A,9,1
+376,Refrigerator,Electronics,747.4476674068575,231,Supplier B,21,5
+260,Laptop,Clothing,259.27837654182997,456,Supplier B,37,4
+559,Book,Home Appliances,606.0489349821746,232,Supplier B,32,2
+413,Book,Toys,397.40055076656904,353,Supplier A,21,3
+121,Refrigerator,Home Appliances,857.7096632232763,492,Supplier C,43,2
+352,Laptop,Home Appliances,953.3669998767107,332,Supplier B,36,5
+847,Book,Toys,885.8934338027866,438,Supplier B,12,3
+956,Shirt,Toys,285.20759479972475,374,Supplier B,26,4
+660,Phone,Books,210.27961166516062,291,Supplier C,14,4
+574,Phone,Books,484.9461957483203,344,Supplier C,21,4
+158,Phone,Home Appliances,27.18746781945667,-1,Supplier A,29,1
+610,Laptop,Home Appliances,45.2932050059181,427,Supplier B,42,3
+781,Refrigerator,Electronics,562.2248268305401,144,Supplier C,39,3
+575,Book,Electronics,530.0404160819803,129,Supplier A,36,1
+799,Shirt,Books,994.6903492545548,140,Supplier B,33,3
+882,Shirt,Books,217.80499865648295,414,Supplier C,43,1
+289,Laptop,Electronics,272.94185057725906,92,Supplier C,33,2
+786,Phone,Electronics,131.26982947976097,113,Supplier A,47,5
+662,Laptop,Clothing,919.1921494606698,283,Supplier B,34,4
+975,Refrigerator,Clothing,782.2550195692817,443,Supplier B,41,1
+666,Refrigerator,Electronics,825.8923292277105,410,Supplier C,18,1
+343,Book,Clothing,,142,Supplier B,7,1
+931,Book,Toys,534.4019869913215,222,Supplier A,38,2
+604,Refrigerator,Books,462.1693276217092,231,Supplier C,32,1
+230,Refrigerator,Books,343.78364419230417,462,Supplier C,43,5
+584,Refrigerator,Electronics,597.4303220608983,32,Supplier A,27,5
+918,Laptop,Home Appliances,465.19282885402606,275,Supplier C,36,4
+746,Refrigerator,Electronics,462.53427487346363,169,Supplier B,47,2
+120,Shirt,Clothing,938.1893064565161,139,Supplier B,24,5
+940,Phone,Home Appliances,984.3508839935475,356,Supplier C,35,3
+266,Refrigerator,Clothing,800.5547015429892,200,Supplier A,16,3
+373,Phone,Toys,761.6229284419898,22,Supplier A,23,3
+487,Laptop,Clothing,686.9469985435194,455,Supplier B,20,1
+700,Phone,Toys,182.75335528684343,223,Supplier A,1,1
+415,Laptop,Toys,77.92370445814143,367,Supplier C,30,3
+113,Shirt,Clothing,696.9117888109978,269,Supplier C,43,4
+341,Laptop,Clothing,734.2104978114445,346,Supplier B,32,4
+876,Laptop,Toys,66.033531276177,152,Supplier B,29,1
+445,Book,Home Appliances,929.4907152242712,332,Supplier B,11,3
+664,Refrigerator,Toys,109.31782665578399,84,Supplier A,43,4
+997,Refrigerator,Books,300.1825230957783,108,Supplier C,11,1
+439,Shirt,Toys,678.9420165427304,30,Supplier C,48,3
+191,Shirt,Home Appliances,,228,Supplier C,23,2
+466,Refrigerator,Books,74.30757067339954,239,Supplier B,23,3
+554,Book,Electronics,,377,Supplier C,10,3
+527,Refrigerator,Electronics,770.6521433580755,362,Supplier A,12,5
+608,Book,Home Appliances,425.4051054055551,309,Supplier A,26,5
+875,Shirt,Toys,659.9134634697805,388,Supplier C,7,2
+134,Phone,Clothing,588.0267152835739,140,Supplier B,9,2
+305,Shirt,Home Appliances,41.774112385068804,155,Supplier C,7,3
+180,Shirt,Books,988.7691873047926,298,Supplier A,19,4
+661,Laptop,Books,60.599527043,344,Supplier A,7,2
+971,Laptop,Electronics,968.4466828955153,370,Supplier A,8,3
+487,Laptop,Books,558.8668947971101,98,Supplier C,6,1
+101,Laptop,Home Appliances,963.8958465237652,46,Supplier A,13,5
+489,Book,Books,132.45852742555874,486,Supplier B,27,4
+665,Refrigerator,Home Appliances,500.60034880180297,326,Supplier C,1,3
+205,Phone,Clothing,186.11401002873745,421,Supplier C,42,1
+871,Shirt,Electronics,69.95537948199356,479,Supplier A,7,5
+921,Book,Books,625.1785327610653,66,Supplier A,12,1
+576,Phone,Home Appliances,223.6277525424576,-1,Supplier B,20,3
+802,Book,Toys,595.9430779217951,108,Supplier C,46,2
+501,Book,Electronics,130.11719231000592,166,Supplier A,27,5
+829,Shirt,Clothing,,36,Supplier B,34,1
+655,,Home Appliances,785.9999068921823,118,Supplier A,22,2
+261,Laptop,Clothing,448.3104914053439,497,Supplier C,45,4
+301,Refrigerator,Clothing,635.1905065993897,85,Supplier A,14,3
+369,Shirt,Books,654.508781930635,381,Supplier C,1,3
+962,Shirt,Books,846.8799431075478,391,Supplier A,11,5
+915,Shirt,Home Appliances,338.4243385185085,464,Supplier C,35,1
+370,Phone,Toys,693.5496513308672,51,Supplier B,2,4
+555,Refrigerator,Home Appliances,962.3834909052424,90,Supplier C,4,5
+561,Refrigerator,Toys,,288,Supplier B,2,5
+826,Book,Clothing,500.07306718338964,493,Supplier C,46,1
+351,Book,Electronics,638.1030956020907,336,Supplier B,18,4
+801,Book,Home Appliances,,-1,Supplier A,1,1
+395,Shirt,Home Appliances,620.030250379995,203,Supplier C,43,3
+824,Refrigerator,Toys,36.34229722004237,367,Supplier A,36,2
+819,,Clothing,,237,Supplier B,16,3
+848,Phone,Clothing,814.2588528711567,381,Supplier C,13,3
+437,Book,Toys,287.197634366235,154,Supplier C,27,5
+978,Shirt,Clothing,736.9308771699112,239,Supplier A,26,3
+152,Shirt,Books,384.6778109368647,135,Supplier C,9,4
+891,Phone,Electronics,531.4466415947843,406,Supplier C,2,3
+316,Laptop,Home Appliances,86.61383382301563,361,Supplier A,35,4
+863,Refrigerator,Electronics,197.60104982871536,380,Supplier C,37,1
+287,Laptop,Home Appliances,958.0530242488499,368,Supplier A,24,5
+479,Book,Books,892.3352923779757,63,Supplier A,21,4
+592,Shirt,Clothing,659.2296086810692,122,Supplier A,47,3
+140,Phone,Toys,470.4517054380226,253,Supplier A,38,5
+256,Phone,Books,682.2460670373193,476,Supplier A,46,5
+114,Refrigerator,Electronics,626.2380833120602,113,Supplier B,29,4
+912,Laptop,Toys,,19,Supplier B,20,4
+164,Refrigerator,Clothing,77.99353042627098,15,Supplier A,29,2
+956,Shirt,Books,640.1465584482768,144,Supplier B,27,2
+938,,Toys,773.541643679745,207,Supplier B,30,5
+620,Phone,Books,994.200021552664,18,Supplier C,25,2
+443,Phone,Books,30.856981542423483,375,Supplier A,42,3
+228,Book,Clothing,735.5699842444631,391,Supplier B,21,1
+747,Book,Home Appliances,580.3535296172608,165,Supplier C,20,5
+571,Shirt,Toys,445.3711325593376,37,Supplier C,0,1
+162,Laptop,Clothing,145.01877107994346,180,Supplier A,36,2
+238,Refrigerator,Books,420.9034456621787,348,Supplier A,12,4
+598,Shirt,Clothing,367.2896393264126,104,Supplier C,20,5
+692,Book,Home Appliances,316.7732911991674,99,Supplier A,45,2
+491,Refrigerator,Toys,736.2620308557636,89,Supplier A,8,3
+774,Book,Home Appliances,706.7110108585786,414,Supplier C,16,5
+518,Refrigerator,Electronics,597.2396891612933,299,Supplier C,46,5
+388,Laptop,Toys,939.8915170275048,443,Supplier A,20,4
+478,Shirt,Home Appliances,362.85729649723737,331,Supplier B,30,5
+872,,Books,258.925898955976,400,Supplier A,38,4
+589,,Toys,662.7852468364316,78,Supplier B,21,2
+330,Phone,Toys,,72,Supplier C,11,3
+140,Refrigerator,Clothing,328.7102970397561,422,Supplier B,5,3
+127,Refrigerator,Books,240.11039127338714,425,Supplier C,15,5
+234,Refrigerator,Electronics,87.7704963641312,175,Supplier A,25,5
+300,Phone,Home Appliances,830.9487668029599,395,Supplier A,4,2
+939,Phone,Clothing,269.44973206322794,95,Supplier C,8,4
+879,Refrigerator,Home Appliances,,344,Supplier C,45,3
+132,Book,Electronics,62.44896778922571,102,Supplier C,39,4
+147,Book,Electronics,705.3526769275902,401,Supplier A,13,2
+602,Laptop,Toys,343.949782260165,462,Supplier A,43,3
+506,Shirt,Electronics,,223,Supplier B,41,3
+673,Book,Home Appliances,424.1549992585088,5,Supplier C,29,1
+827,,Books,211.84049427751214,121,Supplier B,25,2
+904,Book,Books,522.9115806363952,235,Supplier A,44,2
+198,Laptop,Toys,147.89446844469097,426,Supplier B,28,1
+783,Laptop,Home Appliances,,115,Supplier B,18,4
+971,Shirt,Home Appliances,330.9593678720768,162,Supplier A,46,1
+825,Book,Electronics,,225,Supplier A,7,2
+646,Phone,Home Appliances,79.71014728630556,229,Supplier C,22,4
+838,Phone,Clothing,700.1370658236272,181,Supplier B,41,3
+712,Refrigerator,Electronics,199.0961426676872,248,Supplier A,34,1
+561,Phone,Clothing,332.66417284559503,317,Supplier A,30,4
+742,Shirt,Toys,427.20378180082463,452,Supplier B,34,4
+868,Shirt,Books,909.8547875874747,209,Supplier A,31,4
+104,Phone,Toys,257.7267007523486,143,Supplier C,4,1
+317,Phone,Books,109.48262649377682,391,Supplier C,15,3
+602,Refrigerator,Toys,332.31581191071314,344,Supplier B,16,4
+866,Phone,Home Appliances,122.58245112482268,95,Supplier C,31,1
+497,Refrigerator,Clothing,146.02455624134146,381,Supplier A,37,2
+970,Refrigerator,Books,582.3735860155261,345,Supplier A,31,1
+894,Phone,Electronics,79.68389443750345,243,Supplier A,19,1
+492,Laptop,Clothing,50.31226376569471,85,Supplier A,47,1
+306,Laptop,Electronics,720.1258194410879,414,Supplier B,1,4
+114,Refrigerator,Clothing,,490,Supplier C,19,1
+957,,Clothing,142.8678422491958,393,Supplier C,46,2
+653,Laptop,Toys,268.5405154425141,183,Supplier A,17,4
+991,Phone,Books,649.244777205351,120,Supplier B,0,2
+560,Phone,Books,290.02583579803417,331,Supplier A,28,5
+790,Phone,Clothing,,91,Supplier A,28,1
+674,Book,Home Appliances,139.26140059213884,69,Supplier B,18,4
+963,Phone,Home Appliances,596.3317648533381,403,Supplier B,43,4
+842,Book,Electronics,,132,Supplier A,39,1
+340,Refrigerator,Electronics,634.4290658381422,278,Supplier C,5,3
+663,Laptop,Toys,812.2269846579425,136,Supplier A,43,3
+195,Laptop,Clothing,619.4134910021926,313,Supplier C,38,2
+833,Laptop,Electronics,309.8326113431203,186,Supplier C,49,1
+584,Laptop,Electronics,270.6288275173344,220,Supplier B,45,1
+506,Laptop,Clothing,340.87253955877907,463,Supplier B,7,5
+330,Laptop,Toys,181.32810297177474,437,Supplier A,23,3
+848,Laptop,Electronics,197.54841383301968,45,Supplier C,19,3
+754,Refrigerator,Toys,794.8772798621645,277,Supplier C,13,1
+270,Phone,Books,,191,Supplier A,4,2
+640,Shirt,Toys,447.2752769591741,7,Supplier A,40,1
+135,Book,Home Appliances,602.168476255475,378,Supplier A,39,2
+624,Shirt,Home Appliances,597.8604252485167,275,Supplier B,33,3
+259,Shirt,Toys,86.02933409148721,178,Supplier A,15,5
+938,Phone,Home Appliances,,333,Supplier A,44,4
+798,Phone,Books,193.78002215946063,38,Supplier C,6,3
+342,Phone,Clothing,728.6102033286754,292,Supplier A,15,2
+185,,Home Appliances,777.2175683656033,177,Supplier C,6,1
+895,Refrigerator,Home Appliances,,161,Supplier C,26,3
+677,Laptop,Toys,587.3980936230623,330,Supplier B,13,5
+781,Refrigerator,Books,34.316817166705206,373,Supplier A,13,2
+656,Refrigerator,Clothing,373.1679825159073,103,Supplier A,43,1
+673,Shirt,Toys,612.7426407753295,160,Supplier C,32,4
+745,Shirt,Toys,399.7022700040879,286,Supplier B,32,2
+895,Refrigerator,Books,866.2102970145568,122,Supplier B,43,1
+127,Refrigerator,Clothing,322.62622984262305,53,Supplier A,19,4
+719,Laptop,Books,,427,Supplier C,46,1
+655,Laptop,Clothing,280.67773923080483,33,Supplier A,35,4
+439,Shirt,Books,346.1252515815796,241,Supplier A,6,4
+897,Phone,Toys,566.2568650279035,454,Supplier A,31,4
+430,Refrigerator,Toys,712.874988387139,377,Supplier A,47,1
+739,Laptop,Electronics,669.3165593840093,112,Supplier C,2,4
+605,Shirt,Home Appliances,811.56346358185,317,Supplier B,38,2
+447,Laptop,Books,888.1957155874763,22,Supplier A,28,5
+572,Refrigerator,Electronics,819.7574614964842,45,Supplier A,23,5
+330,Refrigerator,Home Appliances,,311,Supplier A,21,4
+289,Book,Books,741.1995944809489,134,Supplier A,5,5
+324,Phone,Clothing,224.23158214596498,117,Supplier B,47,5
+484,Book,Home Appliances,150.26948185382298,472,Supplier B,23,4
+476,Shirt,Toys,645.7190091031528,188,Supplier B,39,4
+382,Laptop,Electronics,,130,Supplier B,22,2
+732,,Home Appliances,75.97482010303439,421,Supplier A,37,3
+727,Refrigerator,Home Appliances,154.87713971039412,211,Supplier C,9,1
+844,Book,Toys,20.910828532561844,417,Supplier B,15,4
+358,Book,Books,905.1591547978131,112,Supplier B,10,4
+458,Book,Clothing,44.12562416441382,43,Supplier A,31,5
+809,Shirt,Toys,225.26665411932083,127,Supplier A,44,2
+555,Refrigerator,Clothing,427.9375250741492,363,Supplier A,5,5
+510,Laptop,Books,369.4398994318027,157,Supplier A,23,4
+748,Laptop,Home Appliances,913.4913593745202,272,Supplier C,32,4
+417,Shirt,Clothing,59.48316681985127,314,Supplier C,11,5
+776,Book,Electronics,521.9704135235106,393,Supplier B,26,4
+324,Phone,Electronics,686.8698732738865,354,Supplier C,37,3
+918,,Toys,933.0640142075454,339,Supplier B,17,1
+333,Shirt,Books,627.9638270812466,401,Supplier B,44,1
+783,Refrigerator,Toys,807.6801312915275,44,Supplier C,38,1
+763,Laptop,Toys,102.05043908844144,107,Supplier B,12,3
+926,Shirt,Toys,398.22072071818883,218,Supplier A,39,4
+473,Shirt,Electronics,386.4681917894861,442,Supplier B,29,5
+771,Book,Electronics,888.5624521266033,317,Supplier A,48,2
+707,Book,Toys,,314,Supplier C,40,4
+571,Phone,Electronics,168.84844888989767,176,Supplier C,12,3
+332,Refrigerator,Books,,227,Supplier B,33,3
+791,Phone,Toys,73.37672641950083,190,Supplier A,35,1
+212,Book,Electronics,198.80887983944024,470,Supplier B,29,4
+929,Laptop,Clothing,965.9054457748205,159,Supplier C,24,1
+596,Book,Toys,439.6202610698294,393,Supplier B,1,2
+541,Refrigerator,Toys,639.3788242539877,266,Supplier B,35,1
+663,Book,Books,731.5890341577442,357,Supplier A,17,2
+367,Refrigerator,Home Appliances,379.62217886705645,325,Supplier C,4,3
+609,Refrigerator,Home Appliances,164.28253292230661,378,Supplier B,18,1
+906,Refrigerator,Books,222.4493958973452,488,Supplier A,41,1
+485,,Books,327.0011470489981,189,Supplier B,17,5
+486,Refrigerator,Books,643.3470519451812,174,Supplier A,31,3
+212,Laptop,Home Appliances,410.31493810727335,289,Supplier A,20,5
+712,Phone,Books,26.678403942125556,483,Supplier B,9,2
+724,Shirt,Electronics,532.9390413661224,356,Supplier C,36,2
+180,Phone,Toys,923.0831240692695,144,Supplier C,48,3
+798,Refrigerator,Toys,815.8360587885054,231,Supplier A,21,2
+212,Laptop,Clothing,828.7071438344384,359,Supplier C,12,3
+101,Book,Clothing,799.1568572540085,437,Supplier A,16,2
+741,Laptop,Toys,337.2562090982152,203,Supplier C,8,4
+319,Refrigerator,Electronics,769.8899570793042,212,Supplier B,23,1
+665,Laptop,Home Appliances,160.29813065496913,39,Supplier C,43,4
+954,Laptop,Home Appliances,664.5618243304344,274,Supplier A,13,3
+835,Refrigerator,Electronics,648.7371953512945,322,Supplier A,45,3
+324,Laptop,Home Appliances,45.058403107939974,81,Supplier C,7,4
+484,Shirt,Books,792.210730919113,180,Supplier B,36,1
+502,Shirt,Toys,905.1831429932279,498,Supplier A,18,1
+737,Laptop,Toys,282.0669729026655,319,Supplier A,27,5
+229,Book,Electronics,816.1429097024279,82,Supplier A,45,2
+152,Refrigerator,Home Appliances,100.75785242470924,302,Supplier A,40,5
+783,Shirt,Clothing,607.9685010958447,261,Supplier A,29,1
+829,Book,Clothing,495.9339280275916,271,Supplier B,6,4
+771,Laptop,Home Appliances,555.00506264282,199,Supplier C,25,2
+809,Book,Clothing,927.6810978466582,-1,Supplier B,39,4
+515,Phone,Electronics,873.8889423019165,401,Supplier B,45,5
+346,,Electronics,789.3819840949619,179,Supplier A,45,3
+935,Laptop,Home Appliances,288.2244885248036,431,Supplier B,10,4
+538,Refrigerator,Clothing,913.5822561123698,170,Supplier A,13,5
+302,Laptop,Electronics,115.55753861459775,294,Supplier B,20,5
+283,Refrigerator,Electronics,,176,Supplier A,7,5
+222,Laptop,Books,341.5968709065356,368,Supplier A,2,3
+500,Book,Books,72.6968654287437,395,Supplier B,27,3
+866,Book,Electronics,,236,Supplier B,28,3
+393,Book,Home Appliances,246.65432974963633,137,Supplier C,22,2
+379,Phone,Toys,258.6997033473393,-1,Supplier C,17,3
+936,,Toys,319.92622290419604,365,Supplier C,34,3
+983,Book,Electronics,82.41107215246639,310,Supplier B,12,3
+709,Phone,Electronics,193.58460131428896,128,Supplier B,11,4
+297,Refrigerator,Electronics,25.036835033849094,48,Supplier A,46,3
+610,,Home Appliances,456.5013306836711,163,Supplier C,49,2
+851,Phone,Books,102.57026986961186,276,Supplier A,4,5
+243,Shirt,Electronics,688.999552943315,292,Supplier A,38,4
+708,Phone,Electronics,250.9103941678154,115,Supplier A,10,1
+300,Phone,Clothing,944.7026611544736,23,Supplier A,10,3
+223,Refrigerator,Home Appliances,873.8265948506795,310,Supplier C,46,5
+286,Laptop,Electronics,303.65207706884405,24,Supplier A,41,5
+425,Shirt,Clothing,787.5511455635452,390,Supplier B,46,4
+563,Book,Toys,807.1800065715101,126,Supplier B,30,1
+448,Book,Electronics,986.8318518321222,233,Supplier B,30,2
+870,Phone,Electronics,605.8831871087713,208,Supplier C,12,5
+759,Refrigerator,Clothing,100.32641995078895,92,Supplier A,13,5
+863,,Home Appliances,653.9004843478533,93,Supplier C,48,5
+502,Book,Electronics,632.4801534085145,326,Supplier A,44,5
+445,Shirt,Toys,645.5835658720231,224,Supplier C,41,4
+610,Laptop,Electronics,,454,Supplier C,24,1
+246,Shirt,Toys,862.4859933787262,377,Supplier A,32,5
+247,Laptop,Books,960.2827392963037,279,Supplier C,32,2
+963,Book,Books,233.3582627185885,10,Supplier A,14,2
+810,Laptop,Toys,106.38911497391156,328,Supplier B,15,3
+919,Refrigerator,Home Appliances,210.6443325051144,11,Supplier B,43,5
+588,Phone,Electronics,824.1410964706045,34,Supplier B,37,5
+739,Phone,Electronics,683.1117421234505,446,Supplier C,5,5
+650,Book,Books,643.3263954923441,451,Supplier B,43,5
+437,Refrigerator,Toys,413.75727240723603,227,Supplier A,24,5
+971,Shirt,Electronics,586.271412081207,219,Supplier B,14,2
+740,Refrigerator,Electronics,321.7166427688801,440,Supplier B,3,1
+878,Phone,Home Appliances,487.65607782960205,140,Supplier C,3,1
+572,,Clothing,,22,Supplier A,29,3
+250,Refrigerator,Books,981.6167655063529,82,Supplier C,33,2
+514,Refrigerator,Books,933.8391451180058,489,Supplier C,26,5
+397,Phone,Clothing,,228,Supplier A,30,1
+710,Shirt,Electronics,,422,Supplier C,31,4
+362,Book,Home Appliances,479.4140828966551,343,Supplier A,43,4
+863,Book,Home Appliances,,79,Supplier B,38,4
+243,Refrigerator,Books,923.7480894902585,352,Supplier A,8,5
+445,Book,Home Appliances,159.15437416504295,395,Supplier A,40,5
+723,Phone,Clothing,318.15702655065184,289,Supplier A,7,3
+671,Phone,Electronics,156.46190770222734,454,Supplier C,13,3
+980,Refrigerator,Clothing,619.7683593602662,330,Supplier A,32,3
+101,Refrigerator,Toys,320.1749769497868,158,Supplier A,22,4
+996,Refrigerator,Books,339.585695462322,476,Supplier A,20,5
+403,Shirt,Home Appliances,,127,Supplier B,11,4
+353,Book,Toys,362.80014057144007,189,Supplier A,1,3
+751,Refrigerator,Home Appliances,865.2465772535536,396,Supplier C,12,5
+552,Laptop,Electronics,,30,Supplier A,3,2
+136,Laptop,Electronics,701.2837168858644,385,Supplier A,19,1
+259,Phone,Electronics,637.0357780398208,358,Supplier B,49,1
+108,Book,Home Appliances,866.214916201733,14,Supplier A,47,3
+332,Refrigerator,Toys,149.64218869801746,312,Supplier C,13,4
+198,Laptop,Electronics,978.0381611381423,74,Supplier A,29,2
+758,Book,Toys,590.9760731195582,33,Supplier C,28,5
+915,Phone,Home Appliances,995.5646692998781,358,Supplier B,7,4
+307,Shirt,Toys,913.2844313485338,195,Supplier A,11,3
+230,Book,Home Appliances,237.08692667084367,330,Supplier B,40,4
+503,Book,Home Appliances,75.03876970524684,-1,Supplier A,37,3
+251,,Books,270.5263119194543,193,Supplier C,25,1
+153,Book,Home Appliances,537.0123760194315,15,Supplier B,49,1
+219,Phone,Home Appliances,188.1644397238862,422,Supplier A,1,4
+772,Phone,Clothing,184.11054962762873,76,Supplier C,39,2
+727,Shirt,Electronics,473.34167616305007,292,Supplier B,13,5
+686,Refrigerator,Books,52.60261174597125,80,Supplier A,5,3
+724,Laptop,Books,139.45032088162503,404,Supplier B,41,5
+519,Refrigerator,Books,427.5441126197886,427,Supplier A,39,1
+521,Book,Clothing,,123,Supplier C,30,2
+203,Laptop,Home Appliances,408.8199553264187,18,Supplier C,16,2
+951,Shirt,Electronics,484.5261406294762,454,Supplier B,24,5
+353,Shirt,Toys,462.2412817916521,101,Supplier B,31,1
+326,Laptop,Home Appliances,871.7913602550256,-1,Supplier A,11,5
+211,Phone,Clothing,539.4612059506978,76,Supplier C,48,4
+609,Laptop,Home Appliances,478.6208532284825,228,Supplier A,12,2
+572,Book,Home Appliances,422.4950604838329,449,Supplier C,18,2
+198,Phone,Clothing,821.2709107383964,296,Supplier B,43,4
+252,Shirt,Books,897.1554719198365,202,Supplier A,47,1
+960,Laptop,Books,856.1776198131752,471,Supplier A,24,2
+995,,Electronics,680.075646568763,453,Supplier C,30,3
+977,Refrigerator,Electronics,154.61451104930075,60,Supplier C,36,3
+437,Book,Books,291.332570102172,25,Supplier C,24,1
+805,Refrigerator,Toys,65.1418024083379,70,Supplier B,15,4
+921,,Home Appliances,932.2075934903119,102,Supplier A,37,5
+262,Laptop,Toys,667.5825590970921,466,Supplier C,42,1
+819,Refrigerator,Home Appliances,751.4356266269766,325,Supplier B,48,5
+780,Laptop,Books,,362,Supplier C,22,1
+260,Book,Electronics,848.7404518317956,156,Supplier A,13,3
+679,Phone,Electronics,274.41121803430894,362,Supplier C,5,4
+900,Book,Toys,21.61088197020069,358,Supplier A,24,3
+497,Book,Electronics,388.88666327028005,193,Supplier B,22,4
+376,Laptop,Books,579.346251339892,274,Supplier B,42,5
+915,Phone,Toys,489.1307608062121,323,Supplier C,11,1
+603,Laptop,Home Appliances,864.8346197250651,185,Supplier A,12,2
+995,Shirt,Electronics,123.2971802370436,325,Supplier A,35,2
+491,Laptop,Clothing,562.746971821051,112,Supplier A,38,4
+234,Laptop,Electronics,522.7197628244893,312,Supplier C,33,4
+294,Laptop,Home Appliances,295.76512252871976,164,Supplier A,5,3
+500,Phone,Toys,825.7835503254704,60,Supplier A,37,2
+739,Laptop,Home Appliances,757.7916827645622,-1,Supplier A,49,3
+132,Phone,Clothing,738.2020035851943,285,Supplier A,39,5
+787,Refrigerator,Books,878.6686287041649,454,Supplier C,7,2
+559,Shirt,Electronics,728.3289086090907,456,Supplier C,7,5
+982,Phone,Toys,247.2044658804319,152,Supplier A,39,1
+569,Refrigerator,Books,711.4514574166973,224,Supplier A,32,3
+474,Phone,Home Appliances,321.548757122047,126,Supplier B,33,4
+121,Phone,Toys,257.33115734052114,192,Supplier B,43,2
+849,Shirt,Books,91.54352104163478,114,Supplier A,14,3
+769,Book,Toys,749.1480087407232,261,Supplier A,35,4
+137,Book,Clothing,716.780942710815,17,Supplier B,34,1
+329,Phone,Clothing,249.80948812061186,9,Supplier B,45,2
+464,Laptop,Electronics,754.3914363896729,91,Supplier A,21,5
+662,Refrigerator,Electronics,919.484065431682,138,Supplier C,22,1
+537,Laptop,Clothing,125.86837834174767,480,Supplier C,39,4
+875,Laptop,Toys,247.98390561903946,448,Supplier A,44,2
+382,Phone,Clothing,755.2555782055692,332,Supplier A,21,2
+126,Phone,Electronics,289.0165400369367,356,Supplier B,4,1
+325,Phone,Clothing,632.1706947980424,339,Supplier B,30,2
+376,Phone,Clothing,99.54093997444022,-1,Supplier C,12,4
+897,Book,Toys,463.15842952146795,51,Supplier A,27,1
+708,Phone,Books,744.309593553094,194,Supplier B,19,5
+383,Book,Electronics,692.7836641823875,465,Supplier C,32,1
+978,Book,Toys,818.7706586622907,488,Supplier C,15,1
+580,Phone,Clothing,879.9030840711055,205,Supplier C,28,5
+552,Shirt,Clothing,777.719831233583,286,Supplier B,22,4
+928,Refrigerator,Books,678.1559880801475,474,Supplier B,23,3
+915,Laptop,Electronics,51.088041979710525,400,Supplier A,33,3
+758,Book,Electronics,544.2673399412552,438,Supplier A,6,5
+615,Refrigerator,Home Appliances,56.943770416555736,365,Supplier C,37,4
+646,Shirt,Electronics,811.9064607737022,92,Supplier C,36,2
+291,Laptop,Books,334.3100339707584,419,Supplier B,3,5
+148,Laptop,Home Appliances,571.1807866355625,484,Supplier B,33,3
+611,Book,Home Appliances,293.85640117252456,409,Supplier A,41,4
+116,Phone,Clothing,786.8501414926877,308,Supplier A,21,1
+271,Shirt,Clothing,,144,Supplier A,4,4
+319,Book,Electronics,410.6696443288027,85,Supplier B,49,4
+257,Shirt,Home Appliances,865.6639456407692,152,Supplier C,41,3
+576,Phone,Clothing,281.73350730720574,1,Supplier A,22,3
+145,Phone,Books,,341,Supplier A,14,2
+472,Book,Clothing,861.5862012419299,388,Supplier B,30,2
+617,Phone,Clothing,339.3637157634746,259,Supplier A,8,5
+198,Refrigerator,Home Appliances,954.961419776524,163,Supplier C,42,1
+991,Laptop,Home Appliances,,5,Supplier B,24,2
+844,Book,Toys,37.909568329036105,499,Supplier A,24,3
+136,Shirt,Books,906.0526455266269,148,Supplier A,48,4
+379,Refrigerator,Home Appliances,87.2756928249148,204,Supplier B,20,5
+448,,Electronics,992.0514120285419,117,Supplier B,8,2
+596,Phone,Books,952.368924739524,484,Supplier A,47,4
+401,Phone,Books,,88,Supplier C,37,4
+280,Phone,Home Appliances,546.8329331787145,153,Supplier B,21,2
+706,Phone,Books,201.22189151780145,438,Supplier C,42,1
+198,Shirt,Home Appliances,439.59206956951743,166,Supplier A,22,1
+799,Refrigerator,Clothing,80.19662667463602,467,Supplier C,48,5
+215,Laptop,Toys,239.44609604065772,160,Supplier A,3,1
+290,Shirt,Clothing,,269,Supplier A,28,5
+352,Shirt,Home Appliances,449.8745502411337,55,Supplier A,14,3
+260,Laptop,Home Appliances,977.9463330447153,227,Supplier A,0,2
+355,Laptop,Clothing,811.7083327703016,336,Supplier C,29,4
+422,Phone,Electronics,742.6617454257073,148,Supplier A,28,5
+227,Shirt,Electronics,546.3004884471347,45,Supplier A,19,1
+117,Book,Electronics,843.1978053922566,143,Supplier C,32,5
+892,Laptop,Home Appliances,352.53637894259685,237,Supplier B,40,5
+834,Laptop,Books,714.7211305178497,271,Supplier C,43,1
+665,Refrigerator,Home Appliances,993.9082958706086,119,Supplier C,35,1
+669,Book,Books,328.3363307564948,339,Supplier C,21,2
+422,Book,Clothing,680.537184186288,412,Supplier A,12,4
+971,Laptop,Toys,847.4285668693348,219,Supplier A,6,2
+785,Phone,Books,917.4914316836588,7,Supplier A,7,2
+891,Refrigerator,Electronics,723.5740371212997,343,Supplier B,27,1
+725,Book,Home Appliances,297.9357649487935,386,Supplier A,44,1
+387,,Clothing,339.7565085375675,472,Supplier B,42,4
+953,Book,Electronics,40.34287148148493,274,Supplier A,8,5
+762,Refrigerator,Clothing,765.6682581180795,352,Supplier C,24,2
+738,Refrigerator,Toys,61.88481394071235,65,Supplier A,15,4
+254,Shirt,Home Appliances,867.3593075106908,78,Supplier B,9,2
+589,Laptop,Home Appliances,136.28740218504802,85,Supplier B,10,5
+485,Refrigerator,Toys,188.43898189320578,123,Supplier A,30,2
+884,Shirt,Home Appliances,486.99594141559254,201,Supplier C,11,3
+203,Shirt,Books,743.1228068653675,465,Supplier A,30,4
+492,Book,Clothing,156.22216109509614,-1,Supplier A,13,1
+910,Book,Electronics,451.2696535651685,45,Supplier A,43,2
+345,,Toys,493.19424892190267,112,Supplier C,31,4
+275,Book,Books,228.03992883521948,90,Supplier B,49,4
+138,Refrigerator,Electronics,133.2472091470191,140,Supplier C,16,2
+576,Phone,Electronics,,288,Supplier B,34,1
+781,Refrigerator,Toys,512.4163367675103,388,Supplier B,0,1
+858,Shirt,Books,34.093611264469914,217,Supplier B,28,2
+637,Shirt,Electronics,806.9216752829218,76,Supplier C,3,4
+966,Refrigerator,Electronics,981.1779293062931,410,Supplier A,22,1
+917,Book,Books,613.8076715059624,376,Supplier A,27,2
+507,Book,Home Appliances,513.6342193423893,383,Supplier A,15,2
+624,Shirt,Electronics,880.8475457840624,333,Supplier A,11,2
+927,Laptop,Clothing,953.4664538909067,151,Supplier A,20,4
+605,Book,Books,,322,Supplier C,44,1
+924,Refrigerator,Electronics,456.5438711396021,238,Supplier C,16,4
+135,Book,Toys,600.3769713448116,114,Supplier C,39,3
+784,Refrigerator,Clothing,706.9166577176393,318,Supplier C,12,1
+119,Shirt,Electronics,210.3880995817654,368,Supplier C,31,4
+420,Book,Clothing,458.25701157210926,93,Supplier C,36,1
+875,Refrigerator,Clothing,833.2248394229393,482,Supplier C,49,3
+611,Shirt,Home Appliances,661.6308415284741,47,Supplier A,14,5
+499,Laptop,Clothing,422.979985867617,190,Supplier B,11,2
+753,Refrigerator,Home Appliances,,461,Supplier C,48,4
+982,Laptop,Books,135.8579638310107,11,Supplier B,14,3
+570,Laptop,Home Appliances,413.46765835357877,155,Supplier C,33,3
+242,Phone,Toys,797.2659672037953,171,Supplier C,5,1
+191,,Electronics,236.09861139391506,476,Supplier A,16,1
+453,Refrigerator,Books,,426,Supplier B,47,2
+933,Laptop,Books,951.8022867181028,400,Supplier A,48,1
+899,Phone,Toys,,295,Supplier A,19,4
+826,Shirt,Home Appliances,275.7002080571647,176,Supplier B,8,4
+953,Refrigerator,Electronics,,340,Supplier A,4,4
+150,Laptop,Home Appliances,740.0143988597251,56,Supplier C,22,5
+764,Book,Clothing,705.6046023630577,342,Supplier C,32,4
+797,Phone,Home Appliances,855.8678561774897,339,Supplier C,37,1
+674,Laptop,Books,133.50662059205837,447,Supplier C,13,1
+289,Book,Electronics,711.8371118484071,202,Supplier C,16,4
+224,Laptop,Home Appliances,513.6148371416741,184,Supplier A,18,3
+249,Refrigerator,Electronics,832.5676274784571,120,Supplier A,32,3
+413,Refrigerator,Electronics,517.9788842918904,225,Supplier C,0,3
+669,Refrigerator,Clothing,627.8365271835339,201,Supplier C,12,2
+441,Phone,Clothing,488.1872838715452,329,Supplier A,45,5
+404,Refrigerator,Books,488.59574508472724,362,Supplier B,26,4
+791,Book,Toys,772.6105785005949,379,Supplier A,5,2
+781,Laptop,Electronics,635.9950726343376,453,Supplier A,5,3
+937,Shirt,Toys,640.5979375772222,355,Supplier A,32,4
+882,Book,Books,461.2768341548953,215,Supplier A,29,2
+153,Book,Electronics,540.487306410777,459,Supplier A,45,1
+543,Refrigerator,Electronics,750.8033128806916,42,Supplier B,34,3
+712,Phone,Toys,829.4221007296799,374,Supplier C,22,2
+363,Laptop,Home Appliances,702.6301741011653,22,Supplier C,9,1
+152,Phone,Clothing,925.5915290687694,154,Supplier B,18,3
+671,Laptop,Home Appliances,823.9176063842569,185,Supplier C,27,5
+719,Laptop,Toys,570.6265140133281,248,Supplier C,22,3
+104,Phone,Clothing,677.9779511908621,236,Supplier C,3,5
+202,Book,Home Appliances,927.7821113827721,292,Supplier B,19,5
+295,Laptop,Clothing,626.7846833581972,133,Supplier B,18,5
+873,Phone,Electronics,828.310809020234,320,Supplier C,41,4
+976,Laptop,Home Appliances,,389,Supplier C,26,4
+983,Shirt,Clothing,560.8976338392572,433,Supplier C,33,5
+449,Book,Clothing,257.00143150704605,21,Supplier A,3,1
+146,Refrigerator,Clothing,437.47756907905955,360,Supplier A,37,5
+966,Laptop,Home Appliances,968.3879683370413,87,Supplier A,6,2
+922,Shirt,Books,664.610075607148,152,Supplier B,47,5
+919,Refrigerator,Home Appliances,573.1074727322098,124,Supplier C,6,4
+755,Refrigerator,Toys,934.2974930176628,78,Supplier B,49,4
+368,Laptop,Home Appliances,594.7815454166997,345,Supplier B,25,2
+469,,Clothing,535.5608680490549,455,Supplier B,25,2
+735,Laptop,Electronics,764.1246380472012,50,Supplier C,18,3
+205,Shirt,Home Appliances,718.4123066068136,215,Supplier A,8,1
+769,Refrigerator,Home Appliances,209.29680824026408,175,Supplier C,19,1
+758,Laptop,Clothing,481.88210908263875,357,Supplier C,41,1
+756,Phone,Electronics,483.06513396319355,252,Supplier B,44,4
+219,Laptop,Electronics,390.6600249384779,453,Supplier B,49,1
+930,Book,Toys,526.947612509208,245,Supplier B,15,3
+886,Phone,Home Appliances,424.84524977260133,226,Supplier A,16,3
+703,Shirt,Electronics,215.35857968175947,105,Supplier A,21,1
+157,Refrigerator,Electronics,,192,Supplier A,12,2
+445,Laptop,Books,90.83140862171307,315,Supplier C,11,3
+840,Phone,Books,584.2701455189233,301,Supplier B,9,2
+573,Book,Electronics,856.5814579622897,35,Supplier C,0,4
+216,Phone,Toys,,441,Supplier A,31,3
+929,Book,Electronics,373.186159253029,203,Supplier B,29,2
+890,Shirt,Clothing,105.32978146576203,421,Supplier A,7,1
+226,Refrigerator,Home Appliances,218.10641124076534,266,Supplier B,20,4
+492,Shirt,Toys,554.5805336849389,267,Supplier B,21,5
+740,Laptop,Clothing,,169,Supplier C,17,5
+157,,Toys,553.0936490592682,497,Supplier C,1,1
+733,Book,Clothing,246.96704426862095,38,Supplier A,47,4
+612,Book,Home Appliances,851.9453920865514,454,Supplier C,43,4
+850,Phone,Home Appliances,409.32604338365053,138,Supplier C,8,4
+901,Phone,Books,260.6396134256013,291,Supplier C,2,4
+195,Laptop,Clothing,816.0796566421204,51,Supplier B,25,5
+737,,Books,355.9821855093417,286,Supplier C,20,2
+217,Book,Clothing,129.2579340820063,288,Supplier A,29,4
+659,Laptop,Books,579.0013015755687,140,Supplier B,27,2
+700,Shirt,Home Appliances,589.932920349229,145,Supplier B,35,4
+587,Laptop,Toys,720.4017617310195,424,Supplier C,25,3
+336,Book,Books,255.41504454421786,313,Supplier B,33,3
+984,Phone,Clothing,454.8959123104002,-1,Supplier A,7,3
+996,Phone,Clothing,296.7205606618031,151,Supplier A,9,4
+371,Shirt,Home Appliances,99.33466139337436,200,Supplier B,47,2
+288,Refrigerator,Clothing,879.0815504755737,127,Supplier C,42,5
+803,Shirt,Electronics,,286,Supplier C,49,1
+546,Refrigerator,Toys,315.4337982696247,310,Supplier B,13,5
+680,,Books,607.3855330145466,252,Supplier A,39,4
+889,Laptop,Toys,217.23851237178297,488,Supplier B,14,3
+960,Book,Home Appliances,892.4318893598555,265,Supplier C,16,3
+346,Refrigerator,Books,132.6082164946721,187,Supplier C,17,2
+175,Book,Books,23.76040259764488,385,Supplier B,31,4
+253,Phone,Electronics,511.96803378439853,229,Supplier A,37,5
+755,Refrigerator,Home Appliances,591.465266983812,270,Supplier B,22,4
+534,Shirt,Clothing,587.3860138898883,258,Supplier A,45,4
+185,Phone,Electronics,73.42168888906977,298,Supplier A,22,3
+796,,Electronics,327.7629307800638,414,Supplier B,34,5
+384,Shirt,Toys,509.21496790450516,197,Supplier B,38,1
+319,Phone,Toys,232.24760191469605,322,Supplier A,14,3
+168,Refrigerator,Toys,875.1733677761785,55,Supplier A,23,5
+146,Book,Electronics,105.36710367220536,318,Supplier A,27,2
+193,,Clothing,497.63675283860204,202,Supplier A,15,3
+849,Refrigerator,Books,,270,Supplier C,15,2
+552,Laptop,Toys,276.51607813179277,108,Supplier B,39,3
+303,Refrigerator,Clothing,631.7559222575678,115,Supplier A,38,4
+317,Book,Home Appliances,832.7974471395271,91,Supplier B,5,5
+573,Refrigerator,Toys,206.53023559314659,137,Supplier A,1,2
+531,Shirt,Books,918.8761799883656,421,Supplier B,12,3
+440,Book,Home Appliances,562.4873620091108,302,Supplier B,43,2
+650,Laptop,Home Appliances,313.24736421503934,56,Supplier A,46,3
+711,Shirt,Books,442.2411098746253,49,Supplier A,8,3
+388,,Toys,325.9480461106602,497,Supplier B,33,1
+353,Book,Electronics,,70,Supplier B,16,1
+833,Laptop,Books,800.3746501468295,398,Supplier B,26,1
+456,Shirt,Books,836.2786444722879,401,Supplier C,28,2
+122,Laptop,Books,986.0528845940263,81,Supplier A,36,4
+861,Refrigerator,Home Appliances,795.4586066467499,371,Supplier C,42,3
+621,Laptop,Clothing,609.3563892747921,104,Supplier C,21,5
+857,Phone,Electronics,352.43589242394813,87,Supplier A,23,1
+936,Shirt,Toys,553.7035397365344,1,Supplier A,6,2
+199,Laptop,Toys,60.246809334597316,359,Supplier C,33,2
+901,Refrigerator,Clothing,,83,Supplier A,47,2
+279,Refrigerator,Books,457.03643419025974,481,Supplier B,11,5
+322,Laptop,Electronics,39.622765137543865,42,Supplier B,22,5
+861,Refrigerator,Toys,,153,Supplier C,14,1
+758,Book,Toys,399.7171345453215,326,Supplier C,32,5
+541,Book,Books,591.7530886380664,421,Supplier A,12,1
+707,Book,Clothing,474.91986997308413,93,Supplier A,22,5
+868,Phone,Electronics,626.8202309463118,297,Supplier C,37,5
+424,Laptop,Clothing,490.6883736155287,132,Supplier C,31,5
+615,Phone,Clothing,,394,Supplier B,44,1
+115,Refrigerator,Electronics,234.74354337738484,64,Supplier B,49,3
+891,Phone,Electronics,130.58632343994898,289,Supplier A,34,1
+435,,Toys,604.5052755331468,375,Supplier B,0,3
+858,Refrigerator,Toys,494.9957265975813,256,Supplier A,46,2
+357,Shirt,Electronics,46.33030096403659,466,Supplier A,44,2
+596,Book,Home Appliances,392.8722477831751,385,Supplier A,4,1
+995,Refrigerator,Toys,124.00307378117557,212,Supplier B,12,3
+259,Shirt,Home Appliances,540.7296951176413,147,Supplier C,4,3
+574,Book,Electronics,407.86212606722216,60,Supplier C,31,3
+951,Refrigerator,Toys,620.8888728809576,470,Supplier B,20,2
+763,Refrigerator,Clothing,809.4901743948335,148,Supplier C,23,1
+789,Phone,Electronics,313.67531016466097,87,Supplier A,17,4
+774,Phone,Books,962.8600620817269,323,Supplier C,20,3
+479,Book,Home Appliances,544.921810575823,382,Supplier B,9,3
+644,Refrigerator,Electronics,,395,Supplier C,23,4
+790,Laptop,Electronics,687.0589257612223,277,Supplier A,39,1
+526,Phone,Toys,673.396899260438,403,Supplier A,46,3
+712,Book,Toys,520.7513281841609,81,Supplier B,20,1
+367,Refrigerator,Toys,440.1890052923898,128,Supplier B,24,3
+934,Refrigerator,Books,72.70632489383036,285,Supplier B,22,5
+676,Laptop,Toys,41.644128395156145,381,Supplier A,21,3
+516,Book,Electronics,370.8019706421094,352,Supplier C,3,5
+267,Refrigerator,Toys,346.9876728210188,279,Supplier C,33,1
+941,Phone,Clothing,399.9412517422266,269,Supplier B,5,3
+142,Laptop,Toys,155.6008368704262,291,Supplier C,27,2
+655,Book,Books,743.4049051261068,452,Supplier C,30,2
+384,Laptop,Clothing,859.8251264807142,202,Supplier B,34,4
+496,Phone,Electronics,939.9403426665543,23,Supplier B,38,2
+111,Book,Electronics,502.5150574492333,443,Supplier A,41,5
+706,Laptop,Home Appliances,,350,Supplier A,22,2
+401,Shirt,Clothing,858.440100967155,310,Supplier A,5,2
+997,Phone,Home Appliances,429.9252888716162,460,Supplier A,15,2
+352,Phone,Clothing,323.22453897303546,207,Supplier C,1,3
+598,Phone,Clothing,937.9900647364203,279,Supplier C,23,4
+853,Shirt,Books,525.3630200555317,204,Supplier A,16,1
+134,Shirt,Home Appliances,507.30880885906043,151,Supplier A,44,4
+826,Refrigerator,Books,194.84777463222585,437,Supplier B,0,5
+948,Laptop,Clothing,125.9919142818896,25,Supplier C,5,3
+189,Refrigerator,Electronics,845.2647252338414,193,Supplier C,4,3
+875,Laptop,Clothing,,335,Supplier A,44,2
+704,Shirt,Books,339.3080923390597,421,Supplier C,49,2
+701,Shirt,Home Appliances,207.90149304246114,237,Supplier B,28,5
+517,Refrigerator,Home Appliances,,320,Supplier B,11,3
+214,Book,Books,592.2409034759127,496,Supplier C,38,1
+716,Refrigerator,Home Appliances,222.853729220157,74,Supplier A,46,4
+295,Laptop,Toys,854.3776329336445,434,Supplier C,2,3
+925,Refrigerator,Electronics,102.57907883273407,162,Supplier B,47,1
+600,Phone,Electronics,368.9712234630932,298,Supplier A,0,1
+725,Laptop,Electronics,686.7767254872717,28,Supplier C,26,4
+592,Laptop,Home Appliances,288.63795654281665,164,Supplier A,47,1
+174,Book,Home Appliances,831.1216908856464,336,Supplier A,23,5
+512,Shirt,Clothing,745.0704700683955,185,Supplier B,43,1
+475,Laptop,Clothing,793.2423876571715,53,Supplier A,18,5
+519,,Electronics,136.72440515918194,294,Supplier C,7,1
+828,Refrigerator,Toys,157.73618543563205,41,Supplier A,43,2
+376,,Clothing,,411,Supplier A,46,1
+860,Book,Clothing,527.7156218936099,284,Supplier C,1,5
+775,Shirt,Home Appliances,753.0557551654143,426,Supplier B,29,1
+493,Laptop,Toys,839.8002729456854,386,Supplier B,29,1
+968,Shirt,Electronics,,499,Supplier C,48,1
+556,Laptop,Clothing,930.0249439000256,137,Supplier C,38,5
+291,Shirt,Toys,743.9686394236116,186,Supplier B,44,1
+838,Laptop,Toys,,489,Supplier A,31,4
+788,Refrigerator,Electronics,279.7796586518011,397,Supplier C,0,4
+198,Laptop,Toys,702.2686012950682,-1,Supplier A,37,5
+647,Laptop,Toys,209.01315731582199,430,Supplier C,12,2
+195,Phone,Toys,,41,Supplier B,10,4
+763,Laptop,Clothing,541.57841735907,349,Supplier A,9,3
+762,Phone,Electronics,825.2087383833762,415,Supplier A,47,4
+289,Book,Toys,119.35224562046626,287,Supplier C,25,3
+835,Phone,Toys,796.0534973198147,425,Supplier A,19,5
+136,Refrigerator,Clothing,815.3405642645171,415,Supplier C,16,2
+879,Phone,Electronics,492.6285200799127,25,Supplier B,16,3
+468,Book,Home Appliances,76.16410381027707,370,Supplier A,3,3
+794,Refrigerator,Clothing,191.09805422224267,384,Supplier C,4,4
+624,Shirt,Electronics,,55,Supplier A,22,3
+378,Shirt,Toys,717.5423860911305,252,Supplier C,45,5
+316,Phone,Electronics,,121,Supplier C,9,5
+966,Phone,Electronics,,105,Supplier C,45,5
+972,Book,Electronics,141.62522035950184,-1,Supplier B,27,4
+897,Book,Home Appliances,138.9866073948727,336,Supplier A,32,2
+372,Laptop,Electronics,726.7097102096872,157,Supplier B,42,4
+980,Book,Home Appliances,200.10897180574312,375,Supplier C,25,5
+161,Laptop,Toys,341.81778962427325,230,Supplier C,49,4
+695,Refrigerator,Home Appliances,497.4677667834756,454,Supplier B,47,5
+979,Phone,Toys,44.269580024628176,307,Supplier B,28,1
+828,,Toys,263.8426464795332,90,Supplier A,26,1
+441,Book,Home Appliances,,392,Supplier C,17,3
+496,Refrigerator,Clothing,294.04359212334214,21,Supplier B,39,2
+798,Refrigerator,Books,153.64292091821451,289,Supplier C,9,1
+118,Refrigerator,Electronics,733.4520126402734,109,Supplier C,41,5
+276,Book,Books,816.8847020646252,48,Supplier A,4,4
+711,Refrigerator,Electronics,272.32939662085033,128,Supplier A,9,4
+495,Laptop,Electronics,778.9311047141773,72,Supplier A,49,3
+544,Book,Toys,397.84249311328756,339,Supplier B,20,4
+332,Refrigerator,Electronics,516.5520750369227,52,Supplier C,23,1
+175,Book,Electronics,858.8810533952898,466,Supplier B,37,4
+364,Shirt,Home Appliances,754.9546081663597,355,Supplier B,2,1
+554,Laptop,Books,809.0145142898542,379,Supplier A,39,1
+895,Refrigerator,Home Appliances,154.1082632546297,167,Supplier C,30,2
+817,Shirt,Electronics,88.32503731705489,44,Supplier C,40,3
+834,Shirt,Toys,895.5366345062273,451,Supplier A,36,5
+483,,Home Appliances,400.07758417967244,392,Supplier C,1,1
+663,Shirt,Home Appliances,302.12208450828723,104,Supplier A,1,3
+950,Laptop,Clothing,730.202329176588,149,Supplier B,38,5
+605,Laptop,Electronics,839.6872846482595,145,Supplier B,48,4
+466,Phone,Toys,865.2398294603349,203,Supplier A,41,3
+243,Laptop,Home Appliances,329.67719830272284,361,Supplier B,43,3
+984,Shirt,Home Appliances,855.1681433776405,298,Supplier B,33,3
+168,Laptop,Toys,,166,Supplier A,41,4
+198,Book,Electronics,68.6682616305245,200,Supplier B,19,4
+495,Phone,Clothing,631.0488112706713,133,Supplier C,32,3
+124,Shirt,Home Appliances,81.84424173323531,210,Supplier B,3,2
+990,Phone,Clothing,338.1169851399583,47,Supplier A,44,1
+568,Shirt,Books,679.3008665219855,125,Supplier C,43,4
+583,Book,Electronics,350.5215581331418,238,Supplier C,10,2
+664,Phone,Books,196.007785811294,6,Supplier B,41,4
+250,Refrigerator,Books,295.7236094167648,463,Supplier C,46,3
+243,Shirt,Books,468.42382560542313,452,Supplier A,4,2
+668,Refrigerator,Electronics,485.87813824837275,271,Supplier C,24,5
+138,Phone,Electronics,787.340226720258,384,Supplier B,48,1
+208,Refrigerator,Toys,755.1501648428823,370,Supplier B,36,1
+792,Refrigerator,Clothing,467.68144846501247,36,Supplier C,33,4
+141,Phone,Clothing,848.754002116796,486,Supplier A,8,1
+285,Book,Toys,131.95239581956793,210,Supplier A,5,5
+497,Refrigerator,Toys,270.24628322432346,164,Supplier B,17,2
+322,Refrigerator,Books,831.4169342322065,124,Supplier B,13,2
+733,Book,Toys,390.43415785363004,336,Supplier A,18,3
+232,Refrigerator,Home Appliances,981.5579276179653,191,Supplier C,13,2
+262,Refrigerator,Clothing,,217,Supplier C,39,4
+314,Refrigerator,Toys,796.0969105044888,213,Supplier C,16,5
+832,Laptop,Home Appliances,414.2609005547245,-1,Supplier C,34,3
+334,Book,Home Appliances,436.4544486811818,327,Supplier A,28,4
+942,Refrigerator,Home Appliances,395.2254843384998,444,Supplier B,41,4
+757,Book,Home Appliances,724.6941081005955,380,Supplier B,16,4
+850,Shirt,Books,556.5675263787946,160,Supplier C,42,1
+687,,Home Appliances,944.9025491410017,65,Supplier A,7,4
+108,Refrigerator,Books,265.8725102034227,285,Supplier A,0,1
+173,Book,Books,118.55147744177546,238,Supplier C,44,2
+591,Book,Home Appliances,405.3962553972309,19,Supplier C,35,1
+352,Book,Clothing,624.3784534938404,187,Supplier C,6,4
+329,Laptop,Home Appliances,863.5829581771851,81,Supplier B,45,5
+618,Shirt,Home Appliances,359.2729489467211,362,Supplier C,4,5
+273,Book,Home Appliances,660.7110161019724,201,Supplier B,23,2
+752,Book,Clothing,363.19470740275466,407,Supplier A,27,4
+267,Laptop,Electronics,624.875191334569,131,Supplier A,42,1
+269,Laptop,Electronics,887.1117880900379,36,Supplier B,16,5
+492,Book,Books,246.73048941422084,131,Supplier B,36,3
+894,Phone,Books,,76,Supplier B,19,4
+733,Book,Clothing,993.3998925011516,88,Supplier B,2,4
+293,Book,Toys,871.1858876844716,460,Supplier C,36,3
+616,Laptop,Electronics,573.347060738278,401,Supplier A,25,5
+128,Laptop,Books,526.2950400171899,252,Supplier C,14,3
+264,Book,Electronics,298.9083746585874,343,Supplier B,47,2
+521,Book,Clothing,,193,Supplier C,7,1
+438,Book,Clothing,851.2178683143483,175,Supplier C,12,1
+747,Laptop,Toys,691.4710230122249,32,Supplier A,47,5
+595,Book,Toys,304.24314761442685,57,Supplier C,2,3
+464,Book,Clothing,217.4346426324623,466,Supplier A,0,4
+932,Refrigerator,Books,279.90436625689256,200,Supplier B,8,4
+441,,Electronics,186.36401736496998,27,Supplier C,30,4
+599,Shirt,Home Appliances,,34,Supplier B,40,2
+756,Phone,Toys,430.75345095321387,486,Supplier A,25,2
+610,Refrigerator,Home Appliances,131.03361231030235,124,Supplier B,16,4
+426,Shirt,Books,188.47430657256226,393,Supplier B,33,5
+316,Book,Toys,556.3781906526964,320,Supplier A,8,2
+400,Refrigerator,Home Appliances,181.30728822558322,41,Supplier B,12,2
+231,Book,Books,82.6021720822848,84,Supplier B,4,1
+903,Laptop,Electronics,331.0410730273275,392,Supplier B,40,1
+169,Refrigerator,Books,235.91271664952816,187,Supplier C,12,5
+351,Laptop,Toys,524.9990842344891,110,Supplier B,0,2
+514,Refrigerator,Clothing,120.31974289154512,270,Supplier A,24,2
+886,Refrigerator,Electronics,756.7353719293186,482,Supplier C,46,3
+544,Laptop,Home Appliances,908.1088490464358,440,Supplier C,3,5
+975,Shirt,Toys,,324,Supplier A,35,5
+281,Phone,Clothing,542.1704966533664,104,Supplier B,9,3
+266,Book,Books,863.4544653531074,405,Supplier C,27,3
+190,Refrigerator,Clothing,701.0200121858774,319,Supplier C,5,1
+813,Book,Toys,30.34010000118606,40,Supplier C,26,5
+957,Laptop,Toys,406.20834971901303,214,Supplier B,11,5
+630,Book,Clothing,853.9328614186641,70,Supplier C,47,3
+138,Laptop,Books,358.9416808157639,55,Supplier A,2,4
+225,Book,Clothing,54.51087005501303,406,Supplier B,45,4
+550,Phone,Toys,751.2560457812268,235,Supplier A,32,1
+272,Phone,Toys,,280,Supplier A,9,4
+752,Phone,Home Appliances,177.3818211424424,474,Supplier C,30,4
+853,Phone,Home Appliances,546.5936869063175,104,Supplier C,14,4
+319,,Electronics,208.11633021581125,389,Supplier C,6,2
+737,Phone,Toys,724.8497306632638,374,Supplier A,35,1
+157,Laptop,Home Appliances,286.11944607393593,161,Supplier B,13,3
+759,Refrigerator,Clothing,329.89082011206347,190,Supplier C,47,4
+575,Book,Books,848.0714365672993,8,Supplier C,13,2
+555,Phone,Clothing,486.79590516276625,59,Supplier A,2,4
+928,Laptop,Books,,380,Supplier B,48,2
+994,Laptop,Home Appliances,414.3255897080183,304,Supplier A,45,1
+460,Laptop,Electronics,312.0467200498803,224,Supplier C,49,4
+100,Refrigerator,Clothing,632.9684992161681,306,Supplier A,2,2
+486,Book,Clothing,,-1,Supplier C,21,5
+447,Refrigerator,Clothing,385.5398388555257,69,Supplier B,18,5
+289,Shirt,Books,224.85629663820384,292,Supplier A,34,2
+604,Laptop,Home Appliances,701.8790676019306,286,Supplier C,11,4
+290,Shirt,Clothing,945.3246615791854,481,Supplier C,4,4
+607,Phone,Clothing,995.6007486555491,168,Supplier C,9,1
+468,Phone,Electronics,461.2712742327589,61,Supplier C,40,1
+508,Refrigerator,Electronics,267.4797818437156,348,Supplier A,32,3
+923,Book,Home Appliances,453.97278297663763,441,Supplier C,12,1
+216,Shirt,Home Appliances,850.3240217634693,13,Supplier A,34,4
+233,Book,Toys,221.88556498099908,163,Supplier C,31,3
+157,Refrigerator,Electronics,953.0537386198653,419,Supplier A,10,1
+655,Phone,Toys,355.02845342218797,244,Supplier A,47,2
+784,Book,Books,,334,Supplier C,37,5
+771,Book,Toys,,7,Supplier C,23,1
+272,Phone,Clothing,,153,Supplier C,34,1
+928,Shirt,Toys,331.5465802978179,-1,Supplier C,18,2
+914,Phone,Home Appliances,28.601667708970876,47,Supplier B,5,4
+248,Book,Books,394.49025064946807,84,Supplier C,39,2
+179,Shirt,Clothing,315.7731822694398,27,Supplier C,44,1
+985,Shirt,Toys,56.649050600621344,-1,Supplier C,43,4
+312,Phone,Books,,445,Supplier A,41,3
+302,Book,Books,414.9706850570819,207,Supplier C,34,1
+863,Refrigerator,Clothing,641.8653383866942,469,Supplier A,3,2
+328,Book,Toys,628.7625957502015,-1,Supplier A,32,3
+775,Laptop,Books,138.33170317874652,463,Supplier A,12,5
+326,Refrigerator,Books,977.4262352040901,306,Supplier A,35,3
+758,Shirt,Electronics,203.19280085261798,103,Supplier B,42,2
+631,Refrigerator,Books,456.36854426941045,229,Supplier C,18,3
+540,Shirt,Electronics,498.35519256506024,425,Supplier A,42,2
+501,Shirt,Toys,816.8015412698377,100,Supplier C,11,1
+146,Refrigerator,Toys,,28,Supplier A,10,4
+332,Shirt,Toys,440.0713936243611,126,Supplier B,5,5
+404,Shirt,Home Appliances,635.9321268314799,337,Supplier A,11,4
+625,Laptop,Toys,230.85250919157443,9,Supplier C,26,4
+242,Book,Books,634.9185407907513,105,Supplier C,40,4
+514,Book,Clothing,925.1915407986596,-1,Supplier B,24,2
+612,,Electronics,997.5677685492215,465,Supplier C,41,2
+472,Refrigerator,Home Appliances,51.802055254862196,256,Supplier C,2,5
+665,Phone,Toys,250.87646367978397,294,Supplier A,2,2
+985,Phone,Toys,324.1009734758635,276,Supplier C,19,2
+358,Phone,Clothing,411.1435784360668,64,Supplier A,27,2
+755,Laptop,Clothing,257.41201443307204,270,Supplier B,22,2
+570,Laptop,Home Appliances,219.41823466420627,387,Supplier C,47,1
+111,Shirt,Electronics,955.46276556915,187,Supplier A,2,5
+429,Phone,Toys,,316,Supplier C,41,2
+835,Refrigerator,Home Appliances,66.05265098305512,403,Supplier A,23,5
+883,Refrigerator,Books,352.0367611727512,137,Supplier B,42,3
+457,Phone,Books,417.0455826048385,342,Supplier A,39,1
+507,Phone,Home Appliances,254.23424397262448,-1,Supplier C,5,2
+767,Phone,Toys,636.2954390484119,33,Supplier A,19,1
+472,Laptop,Home Appliances,647.5731317113563,379,Supplier C,10,1
+107,Laptop,Toys,853.4941437620251,109,Supplier B,31,3
+221,Laptop,Clothing,746.0518830175134,431,Supplier A,26,5
+447,Book,Home Appliances,551.7218604266365,32,Supplier C,20,1
+775,Refrigerator,Toys,660.5150346435315,353,Supplier C,43,4
+189,Refrigerator,Home Appliances,288.5090059121577,230,Supplier C,47,3
+747,Shirt,Home Appliances,601.1950661680105,316,Supplier A,49,4
+797,Laptop,Toys,499.44270965492086,265,Supplier A,12,3
+415,Book,Toys,150.677577970043,181,Supplier A,21,4
+277,,Electronics,257.6933910513113,339,Supplier B,34,4
+639,Refrigerator,Home Appliances,305.8595817071543,64,Supplier C,46,1
+831,Laptop,Books,925.8233757115067,332,Supplier C,21,1
+968,,Home Appliances,245.77890659817166,0,Supplier B,27,3
+140,Laptop,Home Appliances,303.4590247632748,132,Supplier B,20,5
+839,Phone,Toys,381.96704748764364,79,Supplier A,45,1
+803,Laptop,Home Appliances,,270,Supplier A,17,1
+601,Phone,Home Appliances,135.87362462269772,240,Supplier A,30,2
+244,Phone,Books,954.8663082439006,27,Supplier A,45,1
+300,Shirt,Toys,868.2597956928693,222,Supplier A,36,5
+823,Refrigerator,Home Appliances,585.6717515487711,22,Supplier A,20,2
+560,Laptop,Clothing,680.5571100764577,495,Supplier B,13,4
+831,Phone,Electronics,36.32726181933167,108,Supplier B,24,4
+851,Laptop,Books,352.1658798414797,106,Supplier B,26,2
+657,Refrigerator,Home Appliances,799.7470260482131,144,Supplier C,39,2
+646,,Clothing,95.93331431653817,368,Supplier C,22,2
+352,Book,Home Appliances,296.6675575265058,353,Supplier A,30,3
+489,Refrigerator,Home Appliances,593.5908917676251,396,Supplier B,46,5
+693,Shirt,Toys,271.284767144963,397,Supplier C,28,5
+982,Phone,Toys,935.2984146616288,138,Supplier C,46,4
+355,Book,Toys,148.43745818820454,283,Supplier B,29,4
+808,Shirt,Clothing,801.446470749623,297,Supplier C,25,4
+914,Laptop,Home Appliances,517.7897180682801,479,Supplier C,19,1
+549,Phone,Electronics,755.3241603035568,98,Supplier B,37,4
+109,Refrigerator,Books,324.5010217452185,316,Supplier C,18,2
+923,,Toys,524.1998102657981,122,Supplier B,26,4
+897,Laptop,Toys,859.6986427287128,319,Supplier C,24,2
+341,Book,Home Appliances,477.5405371406423,-1,Supplier B,39,3
+350,Book,Home Appliances,372.52546467206423,80,Supplier C,37,1
+976,Book,Clothing,545.4322785276813,494,Supplier C,22,1
+104,Refrigerator,Clothing,723.0154979756395,456,Supplier B,28,5
+218,Shirt,Toys,454.6920785885327,9,Supplier C,14,3
+900,Shirt,Home Appliances,940.0994356394275,7,Supplier B,2,2
+473,Phone,Electronics,309.0469075614952,404,Supplier B,9,3
+164,Refrigerator,Books,485.954334045738,204,Supplier C,14,1
+245,Book,Home Appliances,761.7891061546127,-1,Supplier A,15,2
+323,Book,Home Appliances,695.338668685843,433,Supplier C,16,3
+338,Laptop,Clothing,866.368231368813,196,Supplier A,18,1
+276,Laptop,Books,996.8729970674867,197,Supplier A,10,2
+878,Book,Toys,438.3211622191878,29,Supplier C,47,2
+952,Book,Home Appliances,128.9278621876456,478,Supplier A,4,1
+381,Refrigerator,Toys,49.80756319180862,400,Supplier B,4,2
+162,Shirt,Home Appliances,732.3393680169762,458,Supplier B,13,1
+316,Laptop,Toys,876.5333978825413,19,Supplier A,49,4
+953,Shirt,Books,236.2983342255303,47,Supplier B,25,4
+926,Refrigerator,Clothing,175.27907644610784,456,Supplier C,7,2
+894,Book,Books,80.96098969517716,129,Supplier B,4,2
+788,Shirt,Electronics,826.2488632828622,292,Supplier A,6,1
+560,Book,Clothing,325.15430109473266,384,Supplier C,15,2
+709,Book,Books,413.66295490458094,131,Supplier B,13,5
+204,Phone,Electronics,,355,Supplier C,36,4
+198,Shirt,Home Appliances,842.6641695253597,53,Supplier A,40,2
+610,Shirt,Home Appliances,657.8165571302552,377,Supplier B,3,2
+484,Book,Toys,622.763337260655,280,Supplier C,35,3
+504,Refrigerator,Clothing,192.1586579567925,386,Supplier C,47,2
+922,Phone,Home Appliances,522.9260938756331,264,Supplier B,16,5
+617,Book,Clothing,721.0733968350821,469,Supplier C,46,4
+575,Laptop,Home Appliances,973.7956653698819,214,Supplier C,35,3
+808,Laptop,Toys,217.3781830290852,459,Supplier A,5,1
+962,Phone,Books,29.352486005882113,457,Supplier A,15,1
+744,Refrigerator,Toys,,289,Supplier A,28,4
+969,Book,Electronics,388.33541587833963,42,Supplier A,35,1
+870,Shirt,Home Appliances,824.1337547910674,73,Supplier A,37,5
+536,Phone,Electronics,26.999240132880146,349,Supplier A,36,2
+122,Refrigerator,Electronics,467.59598102812345,277,Supplier B,47,4
+664,Shirt,Clothing,342.64600303456666,325,Supplier A,47,3
+776,Laptop,Home Appliances,71.43207589773303,241,Supplier C,9,2
+813,Laptop,Electronics,461.2315609391649,129,Supplier B,40,1
+557,Shirt,Books,269.65373318998445,349,Supplier C,35,1
+182,Phone,Electronics,364.8471376600663,193,Supplier A,28,3
+244,Laptop,Books,711.5029986886071,31,Supplier A,13,5
+184,Book,Clothing,531.1199642327477,105,Supplier C,3,3
+177,Shirt,Electronics,142.15448041295707,399,Supplier C,43,4
+556,Shirt,Toys,962.1862496151663,203,Supplier C,41,3
+977,Laptop,Clothing,643.1925503955435,0,Supplier B,35,1
+100,Phone,Books,770.551057149281,244,Supplier A,49,5
+150,Book,Clothing,,71,Supplier C,44,5
+784,Phone,Electronics,66.11721187081852,431,Supplier A,12,3
+816,Refrigerator,Home Appliances,,305,Supplier C,45,4
+871,Refrigerator,Home Appliances,205.01814721797555,396,Supplier A,17,1
+545,Laptop,Books,,14,Supplier B,32,2
+548,Laptop,Books,937.1096107347664,52,Supplier A,20,5
+980,Laptop,Home Appliances,467.91846608046075,427,Supplier C,15,3
+587,Refrigerator,Books,304.4500032650788,7,Supplier A,14,4
+899,Phone,Clothing,570.69654844927,329,Supplier B,4,4
+133,Phone,Toys,129.69588657209346,45,Supplier B,5,1
+447,Laptop,Toys,617.3157731848835,324,Supplier A,37,5
+194,,Clothing,577.0633152438933,113,Supplier C,2,1
+171,Phone,Toys,796.1531727375955,146,Supplier B,47,2
+650,Refrigerator,Electronics,986.9538593846836,494,Supplier B,11,2
+253,Shirt,Clothing,265.8560022817883,165,Supplier A,35,2
+349,Shirt,Books,519.4633217876855,378,Supplier B,32,4
+773,Shirt,Clothing,910.6880981926236,138,Supplier B,35,5
+537,Book,Home Appliances,789.4860867343845,116,Supplier C,32,1
+217,Laptop,Books,497.6581770387914,298,Supplier C,30,1
+870,Refrigerator,Home Appliances,946.4642166224822,275,Supplier C,20,2
+990,Book,Books,76.09195964647319,403,Supplier A,26,5
+405,,Toys,932.3786473183324,276,Supplier B,26,5
+367,,Clothing,69.49724453515041,337,Supplier A,7,3
+153,Laptop,Electronics,556.3586492323907,312,Supplier B,36,5
+335,Shirt,Books,892.632129041064,177,Supplier B,31,5
+488,Laptop,Books,277.46652469007677,329,Supplier B,25,1
+833,Book,Home Appliances,482.8035289662553,353,Supplier C,1,5
+862,Book,Toys,337.8423015542273,153,Supplier A,11,5
+924,Book,Home Appliances,953.1010387348243,413,Supplier A,21,1
+500,Laptop,Home Appliances,827.172682858029,200,Supplier B,16,5
+723,Refrigerator,Toys,714.821481099852,365,Supplier A,6,1
+866,Refrigerator,Electronics,595.8744468828065,114,Supplier C,42,3
+402,Phone,Home Appliances,,158,Supplier A,3,4
+306,Book,Home Appliances,404.42170069307616,41,Supplier B,36,1
+328,Refrigerator,Books,458.6008180039406,246,Supplier C,37,1
+952,Phone,Toys,,67,Supplier C,31,5
+677,Refrigerator,Clothing,370.59966802784,444,Supplier B,10,1
+174,Book,Electronics,82.62292320740634,444,Supplier A,0,2
+534,Shirt,Electronics,92.84791670835003,325,Supplier B,24,2
+202,Book,Toys,,333,Supplier A,41,3
+521,Laptop,Books,,195,Supplier A,23,1
+803,Refrigerator,Books,482.78189724108023,89,Supplier C,42,5
+863,Refrigerator,Toys,,110,Supplier B,16,5
+837,Laptop,Books,405.0511488927954,367,Supplier C,7,4
+905,Laptop,Electronics,273.53672846732184,358,Supplier B,44,3
+405,Shirt,Electronics,360.2483242109677,-1,Supplier B,26,5
+197,Refrigerator,Clothing,798.2986984108398,274,Supplier C,17,4
+949,Refrigerator,Toys,632.7118025308095,178,Supplier B,26,5
+897,Shirt,Home Appliances,938.886984358744,-1,Supplier B,21,4
+434,Phone,Home Appliances,686.1106830052973,325,Supplier A,15,2
+958,Shirt,Clothing,578.7779991196,318,Supplier B,1,2
+534,Book,Clothing,617.9920888061177,476,Supplier B,4,5
+546,Refrigerator,Books,943.5240106790463,330,Supplier C,17,3
+407,Laptop,Clothing,792.436911269372,463,Supplier C,2,1
+348,Book,Clothing,43.56041261910906,413,Supplier B,26,3
+265,Refrigerator,Home Appliances,543.4569022129833,152,Supplier A,16,3
+580,Shirt,Books,694.5716433156335,103,Supplier A,15,1
+434,,Clothing,753.7245088703719,74,Supplier C,5,2
+641,Refrigerator,Clothing,,127,Supplier B,6,2
+858,Phone,Books,869.8338073623252,198,Supplier B,49,1
+205,Phone,Toys,956.7262842316604,153,Supplier A,13,4
+662,Laptop,Books,251.98099972797237,55,Supplier A,37,3
+180,Refrigerator,Home Appliances,884.9631483669009,277,Supplier A,39,5
+232,Phone,Toys,115.03918726577348,344,Supplier C,14,2
+896,Shirt,Electronics,74.59269939294029,18,Supplier B,46,5
+237,Refrigerator,Books,,158,Supplier C,46,1
+283,Shirt,Home Appliances,76.58625787769527,25,Supplier B,47,5
+500,Shirt,Toys,848.1119924126604,425,Supplier C,32,5
+429,Phone,Books,77.86914156910652,168,Supplier B,42,3
+884,Refrigerator,Clothing,286.2309075363824,483,Supplier A,26,1
+607,Book,Books,,22,Supplier A,28,5
+951,Phone,Electronics,309.51359558748965,46,Supplier A,36,2
+168,Phone,Books,108.74827824890207,12,Supplier C,4,1
+645,,Toys,674.6431857281538,216,Supplier A,28,2
+873,Refrigerator,Toys,150.66028001572366,-1,Supplier B,31,4
+152,Shirt,Books,854.8090073221101,193,Supplier C,5,5
+549,Refrigerator,Toys,820.8472297121082,143,Supplier B,1,1
+304,Shirt,Clothing,33.38845176119723,72,Supplier C,5,2
+225,Phone,Books,,155,Supplier B,45,5
+846,Laptop,Clothing,48.36543040849972,76,Supplier B,42,3
+142,Book,Clothing,254.8528692584055,418,Supplier C,3,2
+851,Phone,Home Appliances,51.741355020475154,168,Supplier C,28,2
+982,Refrigerator,Books,,460,Supplier A,24,4
+210,Book,Toys,523.5891951990062,286,Supplier A,8,3
+860,Laptop,Clothing,800.7119716348353,84,Supplier B,2,4
+762,Laptop,Home Appliances,351.22191946043944,415,Supplier B,25,3
+282,Shirt,Books,711.3802241796544,181,Supplier B,47,2
+947,Book,Books,203.75436797660072,481,Supplier C,42,4
+194,Shirt,Electronics,755.5864876092438,455,Supplier C,26,5
+473,Phone,Electronics,,314,Supplier A,35,3
+619,Book,Clothing,160.67386082489256,296,Supplier B,31,2
+459,Phone,Electronics,201.70067336657323,111,Supplier A,0,1
+795,Shirt,Clothing,,449,Supplier C,15,3
+380,Book,Toys,522.6056217894513,229,Supplier C,47,3
+294,Shirt,Clothing,847.9016295643831,95,Supplier C,10,5
+963,Book,Electronics,98.01297545265552,437,Supplier A,25,3
+294,Shirt,Toys,712.8171921235543,167,Supplier C,39,3
+766,Laptop,Electronics,661.2595304598005,377,Supplier B,0,5
+192,Shirt,Clothing,875.0695527927751,155,Supplier A,25,5
+771,Laptop,Home Appliances,259.2646092967691,420,Supplier C,27,4
+160,Shirt,Books,461.107661511329,-1,Supplier A,8,2
+733,Book,Electronics,,192,Supplier A,43,2
+150,,Clothing,666.7935811326108,488,Supplier C,21,4
+502,Book,Toys,400.99304460436497,329,Supplier C,7,2
+888,Refrigerator,Electronics,148.78413519816309,438,Supplier A,48,3
+104,,Electronics,277.2353077425792,131,Supplier A,41,4
+565,Book,Books,589.5911679395956,354,Supplier C,26,4
+703,Laptop,Clothing,723.8045886093034,381,Supplier B,38,2
+781,,Home Appliances,141.9334491148556,137,Supplier A,18,1
+928,Refrigerator,Toys,607.6053148431729,430,Supplier A,24,2
+633,Laptop,Clothing,559.344253261976,330,Supplier B,37,1
+504,Refrigerator,Toys,523.6763377568939,269,Supplier C,20,4
+937,Laptop,Electronics,696.3206553283678,37,Supplier C,23,1
+612,Shirt,Books,840.7006031817926,395,Supplier B,23,3
+744,Phone,Books,336.529889513331,44,Supplier C,18,5
+332,Phone,Home Appliances,891.2319463087402,400,Supplier C,49,1
+623,Refrigerator,Books,177.42094036617968,463,Supplier A,46,5
+445,Phone,Electronics,189.56339235614107,162,Supplier A,1,3
+145,Refrigerator,Home Appliances,,449,Supplier A,13,5
+645,Refrigerator,Clothing,137.14025215613626,330,Supplier B,31,3
+177,Refrigerator,Books,245.71284018922003,252,Supplier C,41,5
+829,Phone,Home Appliances,124.28352764478771,168,Supplier C,31,5
+912,Refrigerator,Electronics,825.3173686456826,450,Supplier A,27,2
+172,Phone,Toys,156.18961204889212,284,Supplier A,47,1
+893,Refrigerator,Toys,752.3516064086597,-1,Supplier B,38,5
+348,Book,Electronics,66.95559055506706,19,Supplier C,39,4
+146,,Electronics,949.5499209636369,238,Supplier B,41,2
+220,Laptop,Toys,716.9368857772108,269,Supplier C,46,1
+313,,Home Appliances,,417,Supplier B,39,2
+338,Shirt,Toys,768.5793701962098,432,Supplier A,12,1
+155,Refrigerator,Electronics,,309,Supplier B,11,3
+449,Laptop,Books,783.7778669284173,30,Supplier B,7,5
+206,Laptop,Clothing,532.0468727127767,313,Supplier A,14,4
+930,Phone,Books,648.2043604826475,103,Supplier C,25,2
+147,Book,Books,790.6050222871396,169,Supplier C,11,2
+672,Refrigerator,Electronics,417.0058934960996,185,Supplier A,42,2
+436,Phone,Toys,22.653986824043045,127,Supplier B,45,2
+125,Book,Home Appliances,852.9475660262847,209,Supplier B,26,5
+903,Refrigerator,Books,393.27255537216934,413,Supplier B,17,1
+356,Shirt,Toys,506.1218714962514,280,Supplier C,44,5
+107,Refrigerator,Home Appliances,27.611309310889343,446,Supplier B,35,3
+724,Laptop,Books,502.250170143096,252,Supplier C,48,5
+966,Laptop,Home Appliances,,18,Supplier B,26,5
+352,Shirt,Toys,292.7023076023942,199,Supplier A,8,3
+791,Phone,Clothing,,219,Supplier A,38,5
+818,Book,Toys,,135,Supplier C,0,1
+402,Refrigerator,Electronics,818.4977941731855,222,Supplier C,6,4
+738,,Home Appliances,429.0437915259783,2,Supplier A,25,3
+155,Phone,Clothing,323.4754929932667,450,Supplier A,6,2
+825,Shirt,Home Appliances,939.0692839853657,235,Supplier B,6,1
+625,Laptop,Home Appliances,683.6020673382359,-1,Supplier A,7,4
+573,Shirt,Books,136.64087840327824,464,Supplier C,15,1
+127,Refrigerator,Electronics,87.54932057195565,227,Supplier A,2,1
+177,Book,Home Appliances,493.87885377456166,-1,Supplier C,44,2
+315,Laptop,Toys,235.688264726327,141,Supplier C,9,4
+485,Laptop,Toys,268.90505830872837,498,Supplier B,49,1
+464,Refrigerator,Books,880.1383352512912,8,Supplier B,6,2
+765,Phone,Electronics,107.77470382998445,189,Supplier B,20,3
+625,Book,Electronics,721.0568329243118,349,Supplier B,36,2
+798,Laptop,Toys,285.7194083129763,404,Supplier A,30,5
+411,Book,Clothing,765.121656976055,459,Supplier B,22,2
+982,Laptop,Books,727.9631567742737,164,Supplier A,26,2
+106,Book,Books,27.244063415407165,479,Supplier B,21,2
+102,Shirt,Toys,518.9527046631672,138,Supplier B,38,1
+722,Laptop,Toys,156.53309273048544,275,Supplier C,26,4
+849,Book,Clothing,868.9024899671033,-1,Supplier A,48,2
+462,Phone,Clothing,874.1541652051584,52,Supplier C,3,2
+850,Shirt,Electronics,429.9788913438829,174,Supplier B,23,5
+607,Shirt,Books,455.5077060820589,109,Supplier A,22,5
+373,Phone,Books,317.21728061643654,202,Supplier B,47,3
+605,Book,Toys,722.2741729808304,435,Supplier C,18,3
+905,Refrigerator,Electronics,371.48813576592994,135,Supplier A,41,5
+838,Phone,Books,282.4366250321811,3,Supplier C,2,4
+982,Book,Electronics,443.5864383144181,-1,Supplier B,26,3
+114,Phone,Electronics,109.65776801970955,171,Supplier B,2,4
+291,Phone,Toys,751.6711405513197,423,Supplier B,27,5
+730,Laptop,Electronics,,357,Supplier A,16,3
+584,Book,Clothing,651.595360290182,46,Supplier C,30,2
+127,Refrigerator,Clothing,199.20723621977496,-1,Supplier C,9,5
+813,Laptop,Home Appliances,247.75596529012486,427,Supplier B,48,3
+138,Phone,Toys,642.9193586672392,47,Supplier C,21,4
+372,Phone,Home Appliances,993.084596467249,239,Supplier A,29,4
+330,Phone,Clothing,782.1631392910997,346,Supplier B,48,3
+185,Book,Home Appliances,241.32283957892415,212,Supplier B,20,4
+573,Book,Toys,,435,Supplier B,35,3
+225,Laptop,Toys,868.908212862317,339,Supplier A,22,3
+911,Refrigerator,Electronics,455.3002689630742,323,Supplier B,37,4
+636,Laptop,Books,154.31174677159234,138,Supplier B,11,1
+244,Shirt,Electronics,864.9671948554993,204,Supplier B,24,2
+624,Phone,Toys,,380,Supplier B,19,5
+311,Phone,Clothing,984.2282366192203,72,Supplier C,48,2
+124,Phone,Clothing,,3,Supplier B,48,5
+679,Laptop,Electronics,854.7545318873308,75,Supplier A,41,5
+493,Laptop,Toys,71.52290985478308,328,Supplier B,6,2
+166,Phone,Clothing,122.32706210815567,76,Supplier B,28,3
+332,Laptop,Toys,577.6035304180404,303,Supplier C,47,4
+208,Book,Clothing,540.8496613561845,255,Supplier B,28,1
+245,Book,Toys,468.80395019974475,409,Supplier C,12,1
+210,Laptop,Home Appliances,,101,Supplier A,2,1
+327,Phone,Toys,442.5862751670423,105,Supplier C,1,2
+210,Laptop,Toys,577.9119754520993,332,Supplier B,15,2
+569,Laptop,Electronics,22.03498724807958,38,Supplier A,29,3
+133,Laptop,Home Appliances,,475,Supplier B,37,1
+722,Shirt,Books,527.9141262749368,313,Supplier C,5,3
+875,Book,Electronics,727.7717767001733,274,Supplier A,44,1
+468,Refrigerator,Books,190.6735585474884,87,Supplier A,6,2
+847,Refrigerator,Clothing,555.9435503116842,210,Supplier C,4,4
+694,Shirt,Books,720.1704902080661,368,Supplier C,6,4
+653,Laptop,Toys,455.7351047556266,76,Supplier A,33,4
+524,Shirt,Books,46.53951099665003,76,Supplier A,31,4
+712,Shirt,Electronics,460.28279529632397,441,Supplier C,48,5
+617,Phone,Electronics,310.51598998927005,27,Supplier B,12,1
+791,Book,Books,931.0566155473017,244,Supplier A,29,4
+381,Refrigerator,Electronics,142.1211179647608,65,Supplier C,24,5
+419,Laptop,Electronics,,265,Supplier B,20,5
+837,Refrigerator,Books,71.66537100781113,381,Supplier A,20,5
+542,Refrigerator,Home Appliances,457.24702905644256,469,Supplier A,27,3
+414,Book,Home Appliances,562.899897475679,204,Supplier C,47,3
+976,,Clothing,311.9958326905282,57,Supplier B,19,5
+840,Refrigerator,Electronics,465.97412280997673,200,Supplier A,33,4
+476,Shirt,Books,180.28271863958363,224,Supplier B,4,1
+388,Book,Electronics,318.04137247867544,141,Supplier B,17,2
+536,Phone,Toys,628.684198411999,380,Supplier A,38,3
+761,Laptop,Electronics,315.764054743932,367,Supplier B,42,4
+376,Refrigerator,Electronics,901.7482168406942,83,Supplier A,10,4
+809,Laptop,Home Appliances,635.83881848817,142,Supplier B,16,2
+681,Phone,Books,449.8760380672648,351,Supplier A,47,2
+602,Laptop,Electronics,57.98179684309882,32,Supplier C,44,4
+723,Phone,Home Appliances,509.5573685005778,400,Supplier A,21,2
+615,Shirt,Clothing,769.4807172825874,151,Supplier A,36,4
+449,Refrigerator,Home Appliances,280.24644605216537,157,Supplier A,19,2
+942,Phone,Home Appliances,810.638098255792,445,Supplier B,47,2
+545,Laptop,Home Appliances,266.77063072986385,-1,Supplier C,47,4
+929,Refrigerator,Electronics,827.2714601917844,445,Supplier B,47,5
+449,,Electronics,103.56297477944385,250,Supplier B,45,4
+706,Refrigerator,Clothing,868.8600346916489,302,Supplier A,5,1
+763,Phone,Toys,509.20272191466387,111,Supplier B,33,2
+922,,Toys,310.60683782785674,143,Supplier A,13,3
+236,,Toys,279.8109854068458,449,Supplier C,47,2
+858,Shirt,Clothing,443.3703477517554,208,Supplier B,22,1
+998,Shirt,Toys,,223,Supplier B,19,3
+342,,Toys,235.9208455688309,42,Supplier B,12,3
+642,Shirt,Home Appliances,121.15231590141963,263,Supplier A,46,4
+139,Shirt,Electronics,593.3344653442887,243,Supplier A,43,5
+328,Refrigerator,Electronics,498.771617111452,2,Supplier B,40,4
+647,Laptop,Home Appliances,533.7123456420412,124,Supplier B,31,3
+322,Refrigerator,Home Appliances,673.5967092060728,267,Supplier C,25,3
+105,Refrigerator,Home Appliances,281.8011884732363,83,Supplier C,49,5
+421,Phone,Electronics,912.4516954762107,15,Supplier C,13,2
+567,Refrigerator,Toys,446.9586247998446,333,Supplier C,35,5
+831,Book,Home Appliances,146.50447123961254,463,Supplier C,7,4
+174,Book,Clothing,747.4527815992654,58,Supplier A,39,2
+103,Phone,Home Appliances,650.2422655654933,176,Supplier C,21,4
+946,Laptop,Books,329.4285344343564,62,Supplier C,21,5
+745,Laptop,Home Appliances,629.0883495533675,445,Supplier B,15,2
+217,Refrigerator,Electronics,235.46471724159733,490,Supplier A,26,5
+980,Refrigerator,Home Appliances,455.94257215371897,48,Supplier C,9,1
+705,Refrigerator,Books,901.4242717239788,306,Supplier C,24,3
+603,Laptop,Clothing,150.86354849753442,245,Supplier C,30,2
+673,Shirt,Toys,398.96252098771276,288,Supplier B,20,3
+540,Book,Home Appliances,824.7195762259403,285,Supplier B,26,1
+293,Shirt,Books,970.1010814180546,442,Supplier B,16,2
+946,Shirt,Books,464.84761369336,331,Supplier C,32,3
+814,Laptop,Clothing,516.8596277404805,14,Supplier B,30,3
+491,Shirt,Electronics,580.7285225480944,337,Supplier C,49,2
+125,Phone,Home Appliances,933.7011788010366,254,Supplier A,41,3
+534,Refrigerator,Books,861.0426551574892,91,Supplier C,25,3
+272,Phone,Clothing,187.18910212921145,278,Supplier B,20,2
+399,Book,Toys,448.0226614901335,205,Supplier A,35,3
+744,Refrigerator,Books,474.72041963249774,93,Supplier C,0,3
+425,Shirt,Clothing,793.3141894157816,224,Supplier A,3,4
+509,Book,Electronics,610.8350249533265,300,Supplier A,3,4
+217,Refrigerator,Electronics,661.1360527884327,317,Supplier A,25,1
+935,Shirt,Books,998.2359095123053,462,Supplier C,3,4
+886,Phone,Books,93.46084260061279,198,Supplier B,48,4
+823,Refrigerator,Home Appliances,238.54962706305832,270,Supplier C,8,1
+324,Shirt,Clothing,419.7380186241159,499,Supplier B,29,3
+631,Phone,Books,,233,Supplier C,44,3
+212,Book,Home Appliances,41.21265012004392,45,Supplier C,3,4
+239,Book,Home Appliances,109.94205434175231,63,Supplier C,4,1
+658,Book,Books,687.3342255755047,229,Supplier B,44,3
+100,Book,Electronics,881.7379740953095,429,Supplier C,22,5
+189,Laptop,Clothing,,439,Supplier A,15,2
+753,Refrigerator,Clothing,548.4072579233604,248,Supplier C,21,2
+419,Refrigerator,Electronics,269.9915641757318,245,Supplier A,36,2
+649,Laptop,Books,772.5188363610372,427,Supplier B,7,4
+904,Shirt,Clothing,756.7586956199112,74,Supplier B,47,2
+993,Shirt,Books,596.5983754333035,156,Supplier C,32,2
+238,Book,Books,228.41100078111597,222,Supplier C,37,5
+610,Phone,Home Appliances,115.07785387234766,189,Supplier C,42,3
+967,Shirt,Electronics,82.95380433998338,472,Supplier A,15,5
+944,Phone,Books,600.8421453100202,51,Supplier B,4,4
+358,,Toys,828.534612759944,437,Supplier A,15,2
+772,Phone,Electronics,861.1638231453063,87,Supplier A,6,3
+789,Refrigerator,Clothing,474.3496328565808,312,Supplier C,0,2
+109,Laptop,Home Appliances,788.5858733205826,338,Supplier C,8,2
+360,Laptop,Clothing,947.9425924142031,65,Supplier A,17,4
+749,Book,Clothing,289.6667102383066,149,Supplier A,44,2
+271,Shirt,Electronics,410.001139453142,19,Supplier C,46,1
+997,Book,Clothing,932.849412744747,32,Supplier C,2,3
+112,Refrigerator,Books,351.4663479709392,327,Supplier A,23,3
+267,Book,Clothing,915.5987645153604,280,Supplier C,27,1
+741,Phone,Home Appliances,981.4239650093764,45,Supplier C,9,4
+695,Refrigerator,Home Appliances,668.5745140029362,72,Supplier A,8,2
+420,Laptop,Toys,820.5524837140849,353,Supplier A,12,2
+418,Shirt,Home Appliances,,312,Supplier B,47,3
+712,Refrigerator,Clothing,705.5435724632133,342,Supplier A,34,4
+428,Refrigerator,Home Appliances,320.7924515216079,132,Supplier C,22,4
+884,Phone,Electronics,,54,Supplier A,46,4
+876,Shirt,Home Appliances,356.1906978692576,60,Supplier A,16,2
+649,Laptop,Books,,344,Supplier A,45,4
+518,Refrigerator,Electronics,120.47861426324535,7,Supplier B,6,1
+705,Refrigerator,Toys,31.67962331867725,271,Supplier B,15,5
+194,Phone,Books,156.8985251508799,245,Supplier C,39,4
+916,Book,Clothing,721.4212078825794,175,Supplier B,35,5
+680,Laptop,Clothing,973.3378276233151,492,Supplier A,19,2
+417,Shirt,Clothing,983.403405622524,115,Supplier B,23,4
+335,Refrigerator,Books,504.0995661573842,316,Supplier A,46,3
+433,Refrigerator,Books,871.9652549725005,270,Supplier B,4,2
+984,Laptop,Books,742.089926636474,192,Supplier B,44,1
+475,Book,Electronics,511.01943224491134,149,Supplier B,5,1
+558,Refrigerator,Electronics,581.3053222959851,130,Supplier A,27,5
+236,Laptop,Clothing,154.48260368453364,101,Supplier B,4,5
+687,Phone,Home Appliances,938.9082314042602,309,Supplier A,48,3
+646,Book,Clothing,364.89117531714123,269,Supplier A,38,3
+612,Shirt,Toys,457.22627132802614,291,Supplier C,37,1
+395,Refrigerator,Electronics,678.2270263779408,209,Supplier B,1,4
+419,Laptop,Books,347.22442209602286,494,Supplier C,42,1
+671,Phone,Electronics,269.1739777691519,360,Supplier C,38,1
+931,,Books,638.4284054048162,337,Supplier A,20,3
+448,Laptop,Toys,,66,Supplier B,39,5
+939,Laptop,Toys,726.3106097861453,9,Supplier A,36,3
+878,Shirt,Electronics,523.7429024789795,48,Supplier A,17,3
+972,Phone,Books,613.6386559105157,486,Supplier B,47,3
+328,Phone,Toys,,110,Supplier A,45,1
+369,Book,Clothing,536.5091533627125,320,Supplier B,11,4
+927,,Clothing,590.8831018919212,218,Supplier B,16,1
+897,Shirt,Books,690.1124368720771,56,Supplier A,36,2
+390,,Electronics,758.0564702360807,282,Supplier A,45,3
+824,Shirt,Toys,732.9033434603981,458,Supplier C,37,3
+264,Phone,Electronics,872.2241285776165,112,Supplier A,14,2
+104,Refrigerator,Clothing,205.6545645040547,132,Supplier B,6,3
+950,Book,Toys,413.1250101019616,70,Supplier C,13,3
+478,Laptop,Electronics,948.840144694168,82,Supplier B,49,3
+177,Laptop,Home Appliances,,56,Supplier C,0,2
+509,Shirt,Books,142.37267536780422,375,Supplier A,37,1
+673,Refrigerator,Books,534.936223834936,348,Supplier A,2,3
+231,Phone,Home Appliances,127.30115310337293,270,Supplier A,36,4
+700,Refrigerator,Clothing,218.7961739533079,482,Supplier B,43,2
+848,Refrigerator,Toys,998.3523814395376,110,Supplier C,30,5
+141,Phone,Books,550.5353856282094,356,Supplier B,42,2
+188,Shirt,Home Appliances,298.37722125962046,374,Supplier C,12,1
+501,Refrigerator,Home Appliances,994.8794554824279,75,Supplier A,47,2
+395,Laptop,Clothing,967.2277401840404,157,Supplier B,17,5
+939,Phone,Clothing,451.9242602625783,19,Supplier A,16,4
+394,Book,Electronics,275.19504661215024,420,Supplier B,16,5
+715,Shirt,Books,841.6316453303461,130,Supplier A,10,2
+625,Phone,Electronics,721.3083026323501,328,Supplier B,19,5
+899,Book,Home Appliances,693.2026063034401,121,Supplier B,9,2
+790,Book,Toys,895.2514664960231,40,Supplier C,28,4
+736,Refrigerator,Toys,695.6287911938981,166,Supplier A,47,4
+521,Refrigerator,Clothing,298.1219841807182,409,Supplier C,33,1
+964,Refrigerator,Toys,699.9858986382176,129,Supplier C,16,4
+122,Phone,Toys,319.6972410579907,22,Supplier A,41,3
+674,Phone,Toys,764.0542000638552,278,Supplier B,12,5
+242,Shirt,Home Appliances,627.3528974017347,250,Supplier C,43,5
+764,Refrigerator,Toys,95.86332094505558,468,Supplier A,46,2
+244,Book,Toys,522.5786551864392,399,Supplier B,38,4
+324,Laptop,Toys,356.43494981182613,8,Supplier C,26,1
+602,Shirt,Electronics,341.9992200776484,12,Supplier C,25,1
+920,Phone,Home Appliances,610.2111763297121,411,Supplier C,27,1
+715,Shirt,Clothing,335.8783279800364,410,Supplier B,12,3
+203,Shirt,Electronics,,306,Supplier C,11,4
+138,,Books,89.37560729095095,319,Supplier B,43,1
+297,Shirt,Home Appliances,667.180487347909,51,Supplier C,27,3
+745,Laptop,Home Appliances,813.0109075836064,208,Supplier A,1,5
+678,Refrigerator,Books,679.3750561220214,37,Supplier C,36,2
+490,Book,Books,507.2846111195958,99,Supplier A,33,4
+278,Shirt,Books,951.3008734614576,-1,Supplier A,22,4
+653,Shirt,Clothing,313.9397200021023,401,Supplier A,44,5
+547,Shirt,Toys,38.78452977447822,-1,Supplier B,28,4
+599,Refrigerator,Home Appliances,443.34958403417204,50,Supplier A,34,4
+114,Phone,Toys,52.351697182320706,392,Supplier C,10,4
+722,Phone,Toys,954.8580174758806,140,Supplier B,47,4
+768,Laptop,Books,225.71968483309047,167,Supplier A,32,3
+388,Phone,Clothing,793.1484834699019,-1,Supplier B,10,3
+577,Shirt,Electronics,779.0806415108776,108,Supplier B,8,2
+330,Shirt,Clothing,233.37432168927484,206,Supplier B,13,4
+519,Shirt,Toys,628.8019998705639,-1,Supplier C,8,5
+256,Laptop,Clothing,67.1173891167212,299,Supplier A,38,1
+649,Shirt,Books,493.90309398979014,109,Supplier B,47,2
+540,Phone,Electronics,34.354184727037,195,Supplier B,2,1
+196,Refrigerator,Books,922.721002577225,416,Supplier B,28,1
+510,,Electronics,976.5643037155803,151,Supplier A,18,4
+388,Book,Toys,,419,Supplier B,35,5
+353,Phone,Electronics,223.9439139044453,242,Supplier B,31,1
+295,Shirt,Electronics,758.6457730308871,127,Supplier C,6,1
+697,Refrigerator,Electronics,268.3118108527478,104,Supplier A,27,2
+933,,Clothing,897.1750279786081,9,Supplier C,43,5
+621,Refrigerator,Clothing,582.4505534005226,355,Supplier A,17,5
+616,,Toys,363.7620705501059,147,Supplier A,4,1
+734,Refrigerator,Electronics,836.0398714224317,488,Supplier A,22,5
+941,Book,Home Appliances,503.53856640512726,364,Supplier C,21,2
+964,Book,Toys,913.400255434306,363,Supplier C,25,2
+217,Refrigerator,Electronics,929.4539519947933,458,Supplier C,41,2
+905,Phone,Electronics,182.11174908584113,139,Supplier C,11,4
+258,Phone,Clothing,22.276938009291666,189,Supplier B,39,1
+914,,Toys,984.2523213395542,-1,Supplier B,18,5
+327,Refrigerator,Electronics,908.0147854049297,93,Supplier B,46,2
+976,,Electronics,74.33633098976458,491,Supplier A,0,1
+315,Shirt,Toys,836.3735786622485,495,Supplier B,2,1
+795,Book,Home Appliances,468.6488339080225,228,Supplier A,26,4
+114,Shirt,Toys,,62,Supplier C,17,5
+256,Phone,Toys,881.1715932033912,339,Supplier A,49,5
+747,Shirt,Home Appliances,,24,Supplier A,29,2
+360,Phone,Toys,948.3539994316656,267,Supplier B,1,2
+256,Refrigerator,Electronics,221.50905794535424,404,Supplier C,4,1
+146,,Toys,621.4095239741687,280,Supplier C,28,5
+423,Refrigerator,Home Appliances,238.62460783839538,10,Supplier B,32,5
+943,Refrigerator,Books,554.7552916692621,319,Supplier C,41,2
+784,Laptop,Toys,690.2956273168385,200,Supplier C,19,3
+229,Phone,Clothing,206.4233722037348,125,Supplier C,29,1
+510,Book,Electronics,530.4680670466656,305,Supplier B,41,5
+194,Phone,Electronics,479.6785495023166,189,Supplier C,4,4
+726,Book,Clothing,89.61667297527441,88,Supplier A,49,4
+854,Phone,Clothing,821.9416613217969,354,Supplier A,20,3
+391,Refrigerator,Toys,348.96875262998486,115,Supplier C,14,2
+893,Shirt,Clothing,583.090553600842,351,Supplier B,19,2
+910,Shirt,Books,524.4885502344717,176,Supplier B,7,2
+382,,Home Appliances,,13,Supplier B,48,4
+168,Book,Clothing,125.0779463243177,256,Supplier C,30,2
+759,Book,Clothing,435.0123690643461,208,Supplier C,11,4
+110,Book,Books,463.3194240224388,280,Supplier A,20,3
+353,Refrigerator,Electronics,738.9699835571595,442,Supplier B,29,1
+941,Book,Electronics,843.2184552822845,327,Supplier A,26,5
+971,Shirt,Toys,554.0826325380176,324,Supplier A,43,3
+649,Refrigerator,Books,105.04729498369068,388,Supplier B,25,4
+233,Phone,Home Appliances,252.11248118461535,104,Supplier C,32,3
+811,Book,Home Appliances,181.63534631567643,482,Supplier C,25,5
+122,Book,Books,142.12276192534225,146,Supplier A,25,1
+914,Phone,Home Appliances,378.5813126454514,278,Supplier A,35,5
+445,Book,Electronics,244.8056321112944,8,Supplier A,39,4
+401,Phone,Home Appliances,233.93704957528206,117,Supplier A,0,5
+462,Refrigerator,Home Appliances,73.59931108474231,93,Supplier B,14,3
+495,Shirt,Books,,433,Supplier A,49,2
+317,Phone,Books,120.71287779678616,143,Supplier A,0,3
+240,Laptop,Home Appliances,188.7535298351604,288,Supplier C,10,4
+715,Phone,Clothing,442.36405427123907,385,Supplier C,1,1
+309,Book,Books,520.3098560728678,13,Supplier C,0,5
+722,Refrigerator,Toys,157.78007980989827,493,Supplier B,30,1
+715,Refrigerator,Toys,436.28767469370257,256,Supplier B,43,4
+927,Phone,Electronics,354.91386547940874,345,Supplier C,15,5
+782,Shirt,Home Appliances,199.7551706279969,185,Supplier C,21,3
+559,Laptop,Clothing,26.70393318539628,344,Supplier A,41,3
+455,Refrigerator,Electronics,477.67750919130685,399,Supplier A,17,4
+423,Book,Home Appliances,691.9387142798954,206,Supplier B,46,5
+232,Book,Books,241.75178746093087,345,Supplier B,16,3
+987,Shirt,Toys,149.17069329874576,430,Supplier A,29,4
+904,Refrigerator,Clothing,889.3018895580226,171,Supplier C,9,4
+939,Phone,Toys,289.5242770380418,463,Supplier A,34,1
+226,Book,Books,239.14036739681148,269,Supplier B,20,3
+205,Shirt,Home Appliances,859.9550008177175,-1,Supplier B,15,5
+703,Refrigerator,Books,820.7649571834261,151,Supplier A,5,3
+898,Refrigerator,Books,459.3795411141409,110,Supplier A,2,3
+477,Refrigerator,Toys,499.45408419921904,182,Supplier A,40,3
+150,Refrigerator,Clothing,233.39373073734154,398,Supplier B,42,4
+128,Refrigerator,Books,96.73563706996634,338,Supplier C,20,2
+561,Book,Toys,581.9631888485478,71,Supplier A,12,2
+395,Shirt,Clothing,116.37802315840887,417,Supplier B,17,1
+396,Refrigerator,Home Appliances,460.2890560175168,385,Supplier B,23,3
+825,Laptop,Home Appliances,941.6872545427506,282,Supplier B,26,2
+878,Laptop,Electronics,953.7777013871727,73,Supplier A,3,1
+506,Shirt,Toys,254.54564081641144,354,Supplier A,21,4
+868,Phone,Clothing,631.6311516447413,214,Supplier C,23,3
+913,Phone,Books,484.59473882570046,496,Supplier B,39,5
+712,Phone,Home Appliances,878.1714250343838,327,Supplier A,44,4
+504,,Clothing,286.00224699053217,475,Supplier B,9,1
+445,Phone,Toys,23.62835869576851,22,Supplier B,1,4
+721,Book,Electronics,179.3099818127868,67,Supplier C,39,5
+519,Refrigerator,Home Appliances,362.5323451460101,397,Supplier A,5,4
+281,Laptop,Clothing,329.40670717507885,446,Supplier A,47,1
+924,Shirt,Clothing,,372,Supplier B,17,5
+100,Shirt,Clothing,686.949452816061,361,Supplier B,16,5
+930,Refrigerator,Toys,,92,Supplier C,37,4
+666,Laptop,Toys,468.5889408228891,320,Supplier C,44,5
+470,Phone,Toys,113.64792187916852,-1,Supplier C,22,4
+760,Phone,Books,900.1835159236988,383,Supplier C,45,3
+530,Book,Clothing,936.7163279595635,62,Supplier C,29,5
+408,Book,Home Appliances,980.2074646733194,223,Supplier C,20,4
+236,Phone,Toys,871.1817741701209,224,Supplier B,9,3
+301,Shirt,Toys,190.481669942301,368,Supplier C,42,5
+535,Shirt,Clothing,65.27255353759625,345,Supplier B,12,3
+412,Book,Toys,588.0047928644206,336,Supplier B,11,5
+216,Refrigerator,Books,914.3529263454482,102,Supplier A,8,1
+765,Phone,Books,193.804334426548,214,Supplier B,3,1
+902,Book,Toys,26.902056331659026,191,Supplier B,38,4
+674,Book,Clothing,809.3861251115994,159,Supplier C,23,2
+343,Phone,Clothing,,371,Supplier B,33,1
+636,Phone,Clothing,425.4319112718298,206,Supplier C,38,2
+701,Shirt,Electronics,685.3095904450093,268,Supplier C,40,3
+174,,Toys,252.06163374705653,193,Supplier C,4,3
+905,Refrigerator,Clothing,102.28331217779217,379,Supplier A,14,2
+485,Phone,Books,774.6208038867121,402,Supplier C,49,4
+309,Laptop,Home Appliances,637.5715831893006,151,Supplier B,3,5
+574,Book,Home Appliances,988.7206747970687,236,Supplier C,38,2
+517,Book,Clothing,357.4218726535601,87,Supplier C,7,2
+446,Phone,Home Appliances,80.5271385643957,10,Supplier C,48,2
+628,Laptop,Home Appliances,,186,Supplier A,44,2
+739,Shirt,Electronics,531.2987504761807,213,Supplier B,23,2
+975,Phone,Books,228.93985276135237,14,Supplier A,27,4
+862,Phone,Books,786.0944092246642,265,Supplier B,42,1
+278,Book,Electronics,,-1,Supplier A,26,5
+281,Phone,Electronics,275.44842173627785,410,Supplier B,0,1
+763,Phone,Home Appliances,110.67798327938476,443,Supplier A,33,2
+124,Phone,Toys,411.44363345023737,72,Supplier C,16,1
+279,Book,Home Appliances,430.55063945867056,51,Supplier A,36,4
+809,Shirt,Electronics,,127,Supplier A,37,3
+600,Shirt,Books,714.7849817813019,27,Supplier C,25,1
+955,Phone,Home Appliances,907.9789101068172,64,Supplier C,23,5
+260,Book,Toys,154.97941691005246,16,Supplier B,38,4
+276,Shirt,Home Appliances,73.26113638168391,350,Supplier B,20,3
+384,Shirt,Clothing,38.16060892244662,427,Supplier B,29,4
+162,Shirt,Home Appliances,,137,Supplier A,46,2
+761,Book,Electronics,664.7904960659935,318,Supplier B,47,3
+765,Book,Books,732.9275364365667,228,Supplier A,12,5
+255,Phone,Books,790.7755992575597,253,Supplier A,36,3
+981,Refrigerator,Electronics,258.8340476662558,476,Supplier B,2,5
+568,Shirt,Clothing,319.7769169962895,209,Supplier B,31,2
+148,Refrigerator,Electronics,493.47195265418947,430,Supplier A,34,5
+948,Book,Home Appliances,81.91943492302197,293,Supplier C,18,4
+183,Book,Electronics,618.9186927470213,230,Supplier C,13,1
+460,Book,Electronics,984.0603330022426,240,Supplier A,47,4
+788,Refrigerator,Clothing,373.5901851504425,69,Supplier B,21,4
+247,Book,Home Appliances,757.7905255895563,103,Supplier A,16,3
+729,Phone,Toys,,203,Supplier A,3,2
+441,Book,Toys,,52,Supplier B,44,1
+575,Laptop,Books,590.5926998265346,461,Supplier C,39,5
+162,Refrigerator,Electronics,313.87678307518365,-1,Supplier A,18,3
+800,Laptop,Books,53.71514428438907,374,Supplier C,36,2
+459,Book,Clothing,642.2311355153889,329,Supplier C,1,1
+660,Phone,Toys,861.7537023382331,53,Supplier B,14,4
+426,Shirt,Electronics,357.87437156187667,275,Supplier A,1,2
+868,Book,Clothing,402.4896362685151,334,Supplier A,10,2
+835,Phone,Clothing,,-1,Supplier C,44,2
+240,Refrigerator,Electronics,817.3366371000088,134,Supplier C,22,4
+314,Laptop,Clothing,720.6537670807415,57,Supplier B,9,5
+534,Laptop,Electronics,263.82112247808493,104,Supplier C,2,3
+990,Laptop,Electronics,912.0123218673116,265,Supplier B,4,5
+822,Refrigerator,Home Appliances,171.32744238842872,9,Supplier A,2,1
+417,Phone,Books,634.2351090288774,495,Supplier B,37,3
+131,Refrigerator,Clothing,48.22515693558833,252,Supplier C,12,1
+769,Laptop,Clothing,,294,Supplier A,41,4
+384,Book,Home Appliances,291.60146483589267,155,Supplier B,18,5
+404,Shirt,Home Appliances,460.6834376400456,157,Supplier A,39,2
+528,Refrigerator,Home Appliances,358.359261015912,36,Supplier B,49,3
+576,Refrigerator,Toys,189.3016211212857,118,Supplier C,34,2
+385,Phone,Toys,629.5411742919966,66,Supplier C,23,1
+243,Phone,Toys,,241,Supplier A,23,2
+523,Refrigerator,Electronics,959.9025574367554,298,Supplier A,16,2
+118,Laptop,Clothing,208.49943589083676,462,Supplier A,39,4
+117,Shirt,Books,723.0253185817139,212,Supplier B,9,4
+868,Phone,Electronics,671.0525792735687,307,Supplier C,1,5
+689,Laptop,Clothing,356.5102337830811,100,Supplier A,43,1
+470,Book,Clothing,38.71721536665132,55,Supplier A,22,4
+274,Phone,Home Appliances,695.9954223666088,331,Supplier A,5,4
+293,Laptop,Home Appliances,946.5849633483101,323,Supplier B,1,5
+601,Laptop,Electronics,639.4777194773384,238,Supplier A,20,3
+212,Shirt,Home Appliances,446.5868697038814,392,Supplier A,34,5
+213,Shirt,Clothing,534.6508162293958,230,Supplier B,48,2
+321,Book,Home Appliances,215.63623150671918,361,Supplier B,28,2
+777,Laptop,Toys,755.5332804786628,380,Supplier A,6,4
+930,Laptop,Home Appliances,,91,Supplier A,28,4
+743,Shirt,Clothing,162.60695437967644,278,Supplier B,36,5
+996,Phone,Electronics,880.4188148496659,446,Supplier C,22,5
+363,Phone,Books,283.8059446838392,108,Supplier B,32,1
+154,Refrigerator,Home Appliances,982.6109397178826,316,Supplier C,7,2
+970,Shirt,Clothing,395.2449537565009,167,Supplier A,11,5
+742,Refrigerator,Books,194.32637755980966,299,Supplier A,45,3
+899,,Books,364.6857091187392,469,Supplier C,47,1
+877,Book,Toys,451.3767221232493,-1,Supplier B,9,5
+557,Laptop,Books,87.92161757752893,434,Supplier A,14,4
+977,Book,Clothing,586.6540135988237,441,Supplier C,23,5
+261,Shirt,Clothing,605.6797910715223,217,Supplier B,25,4
+479,Laptop,Home Appliances,,221,Supplier C,46,4
+186,Phone,Home Appliances,48.58649444492843,160,Supplier B,41,2
+154,Phone,Home Appliances,550.4134501451535,15,Supplier B,38,2
+575,Refrigerator,Books,71.84928460525109,277,Supplier B,2,5
+899,Shirt,Books,707.1213355673203,496,Supplier B,1,5
+277,Shirt,Toys,74.61342598696478,56,Supplier C,5,3
+490,,Home Appliances,913.4932913748,61,Supplier C,20,1
+448,Book,Electronics,708.0409155468067,497,Supplier C,8,1
+107,Laptop,Toys,517.2419697834539,362,Supplier C,9,5
+932,Book,Electronics,452.67384481555143,465,Supplier C,35,2
+412,Book,Books,148.05917780499712,326,Supplier B,2,3
+858,Phone,Toys,305.1794017733698,241,Supplier A,40,1
+934,Phone,Toys,871.5799229204783,89,Supplier A,23,5
+542,Phone,Clothing,906.3637553312441,71,Supplier C,21,2
+866,Refrigerator,Books,20.732754203120443,325,Supplier C,48,2
+427,Book,Books,602.2536636480003,29,Supplier A,13,2
+153,Shirt,Toys,724.9145968446113,358,Supplier B,41,4
+860,Laptop,Books,,406,Supplier C,44,2
+338,Refrigerator,Toys,100.0461695690269,287,Supplier B,43,5
+328,Shirt,Clothing,233.37040082292418,85,Supplier A,26,3
+678,Book,Toys,265.33346203375834,233,Supplier A,32,5
+150,Phone,Books,835.0901386789878,234,Supplier C,21,2
+708,Book,Books,473.93544758274203,312,Supplier B,28,3
+703,Laptop,Toys,497.0916477024121,364,Supplier C,18,1
+363,,Toys,936.1951856234184,264,Supplier A,18,1
+517,Refrigerator,Toys,644.3441710776212,286,Supplier B,5,5
+902,Laptop,Home Appliances,900.6943475216106,326,Supplier C,44,3
+195,Shirt,Books,467.3786782347023,392,Supplier C,18,5
+187,Shirt,Books,166.44753334792836,268,Supplier C,12,3
+177,Refrigerator,Home Appliances,931.336882192604,185,Supplier A,25,3
+387,Refrigerator,Toys,469.53101335418745,130,Supplier C,21,5
+219,Phone,Clothing,197.99879344124543,290,Supplier B,20,3
+913,Shirt,Toys,316.3478254978438,480,Supplier C,35,2
+590,Laptop,Toys,69.7865378951634,276,Supplier A,1,3
+551,Shirt,Home Appliances,478.93457962725745,319,Supplier C,46,3
+599,Phone,Books,856.0656084720318,350,Supplier A,43,5
+264,Refrigerator,Toys,,179,Supplier A,29,1
+281,Refrigerator,Books,933.9501633535709,289,Supplier B,26,4
+568,Phone,Electronics,142.7254251161718,479,Supplier B,6,3
+834,Laptop,Books,394.4128048608358,376,Supplier C,19,4
+922,Refrigerator,Clothing,47.664184457692244,162,Supplier A,49,3
+106,Book,Clothing,858.0620380720434,270,Supplier A,30,5
+429,Refrigerator,Toys,371.5806467808483,375,Supplier B,22,5
+874,Book,Books,638.49468733439,95,Supplier B,12,3
+772,Phone,Toys,720.6004693157428,-1,Supplier C,16,5
+250,Phone,Home Appliances,441.2477763482923,364,Supplier A,3,5
+184,Refrigerator,Clothing,320.31348981923816,468,Supplier B,13,3
+246,Shirt,Toys,962.9686519136258,352,Supplier C,19,1
+723,Book,Home Appliances,965.1984605233771,287,Supplier A,12,3
+480,Laptop,Toys,,435,Supplier A,2,1
+647,Refrigerator,Books,490.03259480956893,82,Supplier B,25,5
+384,Laptop,Books,973.387275486822,224,Supplier C,25,1
+799,,Books,24.77103950239316,411,Supplier B,17,5
+181,Shirt,Books,424.42468341156626,222,Supplier C,31,1
+613,Shirt,Electronics,118.44839868734906,468,Supplier A,13,1
+996,Shirt,Home Appliances,518.9748062513506,117,Supplier C,46,3
+914,Shirt,Home Appliances,44.17655544967741,481,Supplier C,2,1
+808,Phone,Books,418.76046276281534,191,Supplier C,0,5
+622,Phone,Electronics,236.28509328962843,78,Supplier C,25,3
+845,Book,Books,542.642195209566,77,Supplier C,23,1
+485,Laptop,Electronics,996.0737761186857,146,Supplier B,48,3
+806,Refrigerator,Books,804.5253830242127,106,Supplier C,34,4
+570,Refrigerator,Clothing,848.729249791933,381,Supplier C,13,3
+218,Phone,Clothing,642.5596876118992,270,Supplier A,2,4
+495,Refrigerator,Toys,60.72865130681339,389,Supplier C,12,4
+631,Phone,Books,222.66172252326123,243,Supplier A,46,3
+360,Book,Home Appliances,926.5632653181138,-1,Supplier B,49,5
+904,Laptop,Toys,378.79085557017623,356,Supplier B,13,5
+355,Book,Clothing,121.56399195117967,467,Supplier C,20,5
+833,Shirt,Books,708.3572585488779,353,Supplier B,25,2
+325,Shirt,Toys,313.46856945556954,421,Supplier C,2,4
+152,Shirt,Books,283.47977464608823,25,Supplier B,39,3
+966,Book,Clothing,998.0179064470951,209,Supplier C,3,5
+599,Refrigerator,Toys,860.9761465261213,91,Supplier C,35,5
+605,Laptop,Clothing,,124,Supplier A,42,3
+953,Shirt,Electronics,980.6559836601691,434,Supplier A,0,4
+463,Shirt,Clothing,657.1109589508294,-1,Supplier A,39,3
+379,Shirt,Books,747.182002842165,479,Supplier A,46,2
+692,Laptop,Home Appliances,50.88278222056736,122,Supplier C,32,2
+813,,Clothing,139.17315416109597,308,Supplier B,6,3
+257,Laptop,Home Appliances,640.4234239663136,183,Supplier C,10,4
+731,Shirt,Electronics,901.0435029964942,186,Supplier A,26,5
+158,Book,Toys,,197,Supplier A,13,2
+826,,Toys,151.34439643261194,77,Supplier B,21,2
+227,Laptop,Home Appliances,133.44484532139813,347,Supplier A,15,4
+835,Book,Toys,847.3021779076,185,Supplier C,45,2
+820,Laptop,Clothing,156.516291933756,343,Supplier C,11,2
+981,Book,Home Appliances,529.8273212939449,252,Supplier C,48,4
+214,Book,Books,56.37105356305623,12,Supplier C,45,3
+308,Laptop,Clothing,99.05637204335382,298,Supplier C,9,5
+625,Refrigerator,Clothing,678.9013022900075,75,Supplier B,23,5
+620,Book,Clothing,695.3977822189663,50,Supplier C,45,2
+651,Shirt,Books,354.64001847627355,274,Supplier A,17,5
+336,Refrigerator,Electronics,231.29756993818387,148,Supplier A,21,3
+380,,Toys,817.4360653421618,218,Supplier A,8,2
+458,Refrigerator,Home Appliances,232.76116488049254,121,Supplier A,16,5
+300,Phone,Electronics,551.1865282730521,210,Supplier B,37,1
+857,Phone,Home Appliances,968.8446640456474,279,Supplier A,39,1
+377,Book,Toys,164.8953891051361,25,Supplier B,12,1
+334,Book,Books,942.0587421448147,172,Supplier A,49,1
+593,Shirt,Clothing,199.23519200729527,155,Supplier B,36,1
+103,Refrigerator,Clothing,576.094343862765,237,Supplier B,5,2
+765,Phone,Books,389.4675577195697,375,Supplier B,20,4
+541,Book,Electronics,965.6300294717894,-1,Supplier A,35,4
+128,Refrigerator,Electronics,288.07118842189817,491,Supplier B,6,2
+208,Book,Home Appliances,411.66484204403855,355,Supplier C,35,2
+709,Book,Books,983.2029154983121,489,Supplier C,24,3
+826,Phone,Electronics,545.7409833647037,412,Supplier A,10,4
+904,Phone,Books,,-1,Supplier C,43,1
+174,Book,Toys,272.6229184399115,67,Supplier C,13,2
+937,Laptop,Clothing,707.3362891042326,43,Supplier C,44,1
+245,Book,Clothing,34.08549274222209,492,Supplier A,28,4
+227,Book,Clothing,68.52237710824767,60,Supplier A,9,5
+952,Shirt,Books,607.3714153930866,122,Supplier C,49,5
+141,Shirt,Books,354.84108234208503,348,Supplier A,47,2
+455,,Home Appliances,954.2500447569413,195,Supplier B,4,3
+140,Laptop,Clothing,905.12687690833,329,Supplier C,7,1
+133,Laptop,Home Appliances,719.4321335031731,408,Supplier A,45,2
+116,Book,Clothing,821.7826695052453,478,Supplier A,4,3
+776,Shirt,Home Appliances,673.9852126743394,322,Supplier C,23,1
+252,Laptop,Home Appliances,143.07046065595745,110,Supplier A,39,4
+477,Phone,Toys,770.2325022954186,257,Supplier C,25,5
+687,Book,Home Appliances,225.98812934446946,88,Supplier A,5,3
+698,Refrigerator,Books,336.97399799819283,432,Supplier B,15,1
+728,Book,Home Appliances,822.8495278603718,-1,Supplier C,35,2
+973,Refrigerator,Clothing,545.7950962255792,281,Supplier B,11,1
+441,Shirt,Home Appliances,862.741899899741,199,Supplier C,10,2
+126,Refrigerator,Electronics,,98,Supplier A,2,5
+924,Shirt,Clothing,615.6228698347494,26,Supplier B,43,5
+386,Phone,Electronics,102.11515309729639,88,Supplier A,36,1
+745,Refrigerator,Clothing,650.1997736692291,145,Supplier C,5,1
+830,Book,Books,,181,Supplier C,18,2
+267,Shirt,Books,593.2322760991473,256,Supplier C,17,2
+709,Book,Books,280.906871468834,188,Supplier C,15,3
+367,Laptop,Electronics,50.71581548168938,239,Supplier C,22,3
+848,Shirt,Toys,137.05990628500007,358,Supplier B,42,3
+920,Refrigerator,Clothing,629.8569194925457,-1,Supplier C,36,1
+554,Shirt,Books,935.7318125056635,195,Supplier A,8,3
+784,Book,Clothing,222.40371589256628,296,Supplier B,2,1
+500,Phone,Electronics,740.3256261229968,164,Supplier A,7,5
+575,Shirt,Toys,869.1220419840607,306,Supplier C,37,4
+801,Refrigerator,Electronics,530.4645348785608,270,Supplier A,3,5
+733,Laptop,Clothing,675.8804799267846,7,Supplier B,11,1
+657,Phone,Toys,818.7150103426252,37,Supplier B,43,1
+675,Laptop,Toys,,113,Supplier B,30,4
+229,Shirt,Electronics,310.9577607826821,338,Supplier A,24,2
+921,Book,Books,20.614966295887047,55,Supplier B,15,2
+462,Book,Clothing,963.8322482798465,430,Supplier A,41,2
+804,Refrigerator,Home Appliances,,473,Supplier C,13,3
+918,Book,Home Appliances,769.2768984842418,358,Supplier C,12,2
+792,Phone,Electronics,97.49450055711516,137,Supplier A,40,3
+391,Book,Clothing,458.55283190551796,101,Supplier B,6,3
+470,Refrigerator,Clothing,119.85391889212175,333,Supplier A,11,2
+893,Shirt,Electronics,35.601861917542635,176,Supplier A,36,2
+128,Shirt,Clothing,623.8593059083454,168,Supplier A,49,4
+248,Book,Books,,338,Supplier C,3,4
+878,Laptop,Electronics,904.8106629635071,285,Supplier A,1,3
+395,Shirt,Books,702.8197186366963,260,Supplier C,34,4
+110,Book,Clothing,114.707772481574,374,Supplier A,43,3
+611,Refrigerator,Electronics,288.6807569188541,222,Supplier C,2,1
+775,Book,Clothing,333.6555923475851,198,Supplier A,3,3
+212,Shirt,Electronics,767.88705659065,210,Supplier A,37,3
+286,Refrigerator,Clothing,806.2041956504117,286,Supplier B,11,4
+906,Book,Books,397.404000530122,179,Supplier B,18,1
+843,Phone,Books,,249,Supplier A,9,5
+326,Refrigerator,Clothing,63.61885849064791,230,Supplier A,0,5
+409,Phone,Electronics,,471,Supplier A,16,5
+197,Laptop,Home Appliances,,481,Supplier A,15,1
+154,Refrigerator,Books,,22,Supplier B,8,2
+722,Phone,Books,464.2021115399209,-1,Supplier C,8,1
+763,Shirt,Home Appliances,856.1122960126444,108,Supplier A,8,4
+857,Shirt,Clothing,589.6945993305523,295,Supplier B,11,3
+505,Laptop,Electronics,97.35125793764408,5,Supplier A,40,3
+168,Refrigerator,Clothing,207.83789245366884,37,Supplier A,14,4
+411,Refrigerator,Toys,485.0534631553851,168,Supplier C,1,4
+388,Refrigerator,Books,374.2574068253758,355,Supplier A,10,3
+861,Laptop,Toys,371.5524791551768,282,Supplier A,10,2
+647,Refrigerator,Books,538.6820991807184,202,Supplier C,7,2
+850,Shirt,Books,592.7080031576683,324,Supplier C,31,2
+247,Phone,Toys,800.9243388706673,312,Supplier C,5,4
+566,Shirt,Toys,354.14723219323497,272,Supplier C,19,3
+838,Shirt,Clothing,809.356957379775,243,Supplier B,38,3
+343,Phone,Toys,351.8390045303799,326,Supplier B,34,3
+590,Shirt,Clothing,74.32432916240916,474,Supplier B,7,1
+948,Laptop,Clothing,563.1038979846953,46,Supplier A,49,1
+606,Phone,Clothing,596.1442783969183,248,Supplier C,48,5
+464,Shirt,Books,935.8494407094229,78,Supplier C,42,1
+581,Book,Books,731.5400995412249,109,Supplier B,33,2
+300,Shirt,Toys,919.4171994445508,12,Supplier A,18,2
+253,Laptop,Books,910.1802660381494,394,Supplier A,6,2
+549,Refrigerator,Toys,612.4826280530773,379,Supplier A,30,2
+600,Shirt,Books,,364,Supplier B,17,5
+172,Refrigerator,Electronics,566.292147820328,89,Supplier A,39,2
+812,Book,Electronics,978.7641915237028,341,Supplier A,13,4
+395,Shirt,Toys,777.7043379120197,347,Supplier A,38,4
+116,Phone,Books,124.14058669654793,279,Supplier C,35,4
+740,Refrigerator,Books,782.8598386457719,220,Supplier B,16,1
+316,Book,Clothing,187.12728792026135,72,Supplier C,36,3
+160,Phone,Home Appliances,458.4035380255131,233,Supplier C,43,5
+715,Phone,Toys,226.25047873300358,259,Supplier B,8,4
+141,Phone,Home Appliances,695.7914042225652,112,Supplier C,19,4
+124,Phone,Home Appliances,,45,Supplier A,44,2
+138,Shirt,Toys,304.5546476593473,273,Supplier A,27,4
+902,Shirt,Books,100.37052638402388,42,Supplier A,49,2
+230,Shirt,Toys,,207,Supplier A,19,2
+597,Book,Home Appliances,678.9146207735505,416,Supplier B,40,3
+328,Book,Books,342.18492500336095,348,Supplier C,35,1
+207,Book,Electronics,292.54992420272737,102,Supplier C,26,2
+271,,Toys,200.74648677257963,123,Supplier A,7,2
+534,Book,Toys,507.5660983369449,9,Supplier A,31,3
+577,Shirt,Books,290.42985159404384,328,Supplier C,0,2
+201,Shirt,Electronics,,186,Supplier B,16,5
+965,Laptop,Electronics,95.08995395235866,30,Supplier C,8,1
+623,Laptop,Books,670.7523724490912,155,Supplier A,19,5
+374,Book,Clothing,252.80881427641447,59,Supplier A,44,4
+712,Refrigerator,Toys,499.4936758305711,248,Supplier B,31,1
+143,Laptop,Toys,300.3681235906354,386,Supplier C,1,4
+916,Phone,Home Appliances,728.3133024905798,373,Supplier B,31,2
+116,Shirt,Books,946.400899446604,438,Supplier B,44,3
+429,Phone,Home Appliances,918.735243880417,269,Supplier A,8,5
+668,Shirt,Home Appliances,,441,Supplier C,29,4
+922,Shirt,Electronics,473.3580971918388,216,Supplier A,19,2
+596,Laptop,Toys,821.9344992505942,398,Supplier C,37,5
+914,Laptop,Home Appliances,689.6598353751754,1,Supplier A,0,5
+111,Phone,Electronics,199.8928319325942,23,Supplier A,4,4
+417,Shirt,Books,824.5008293407402,205,Supplier C,34,2
+691,Phone,Home Appliances,440.306701606816,319,Supplier C,35,3
+315,Refrigerator,Toys,205.2059467717516,495,Supplier A,0,4
+438,Phone,Home Appliances,296.1614033885626,198,Supplier C,13,5
+875,Book,Books,282.1764896433755,355,Supplier A,8,5
+760,Phone,Home Appliances,528.8228351113909,113,Supplier C,29,1
+180,Book,Toys,249.682688864318,279,Supplier A,23,2
+826,Book,Electronics,141.09515765354465,154,Supplier A,3,1
+584,Book,Toys,141.21703360148553,164,Supplier A,49,3
+473,Refrigerator,Electronics,591.6106731963147,485,Supplier B,13,4
+809,Phone,Clothing,740.064103072391,221,Supplier C,24,5
+299,Phone,Toys,335.10234866157396,90,Supplier A,3,2
+636,Refrigerator,Toys,53.95769561773674,-1,Supplier B,24,5
+565,Shirt,Books,144.68038919827052,446,Supplier A,9,1
+188,Laptop,Home Appliances,,206,Supplier B,34,1
+367,Phone,Electronics,503.67278639766397,281,Supplier A,6,4
+754,Laptop,Electronics,464.50135342287126,64,Supplier A,41,2
+670,Refrigerator,Books,57.28819474388909,375,Supplier B,12,2
+588,Shirt,Books,734.0642818705611,3,Supplier B,3,4
+976,Shirt,Home Appliances,537.5067193134373,156,Supplier C,49,1
+637,Shirt,Home Appliances,218.03931736479035,248,Supplier C,42,1
+146,Refrigerator,Toys,127.87228497743605,-1,Supplier B,35,1
+387,Book,Clothing,395.7201063593585,234,Supplier C,13,5
+877,,Home Appliances,840.4187249111251,305,Supplier B,17,3
+115,Laptop,Books,867.988668017004,365,Supplier C,7,1
+810,Book,Home Appliances,610.7894527877237,469,Supplier A,31,3
+500,Book,Electronics,732.9856986855398,394,Supplier C,26,3
+893,Shirt,Clothing,132.85267165481295,73,Supplier A,41,2
+185,Shirt,Toys,596.3635441584977,186,Supplier A,36,4
+349,Laptop,Electronics,673.6263894174381,61,Supplier C,22,5
+490,Phone,Electronics,216.69858605551636,336,Supplier B,6,3
+881,Laptop,Clothing,882.5516382520537,163,Supplier A,11,5
+434,Laptop,Toys,211.09680277059937,55,Supplier A,24,2
+728,Refrigerator,Books,327.20781264952143,110,Supplier C,2,1
+618,Refrigerator,Toys,628.1457100829895,217,Supplier B,25,3
+236,Laptop,Home Appliances,645.5830638281161,239,Supplier B,3,4
+982,Laptop,Electronics,705.3970461676199,20,Supplier C,41,2
+787,Laptop,Home Appliances,,140,Supplier B,35,5
+939,Book,Books,852.4751413299842,264,Supplier C,14,1
+597,Refrigerator,Home Appliances,542.1901896375947,138,Supplier C,31,5
+926,Laptop,Toys,481.895358222967,458,Supplier C,28,4
+826,Shirt,Home Appliances,,69,Supplier A,9,3
+576,Shirt,Books,,384,Supplier A,20,4
+693,Book,Books,135.64590608698737,117,Supplier A,15,5
+322,Book,Books,761.4083838817158,197,Supplier C,46,5
+471,Phone,Toys,113.3439552934121,204,Supplier A,18,4
+501,Phone,Books,46.92115126272516,213,Supplier A,28,4
+542,Phone,Electronics,415.55337736449917,55,Supplier A,17,4
+589,Book,Books,,286,Supplier C,43,1
+714,Book,Home Appliances,191.3862574709654,469,Supplier C,15,5
+372,Book,Home Appliances,679.1914566562542,292,Supplier C,0,2
+625,Shirt,Home Appliances,,174,Supplier A,47,1
+258,Book,Toys,730.2912354592183,346,Supplier B,1,1
+251,Shirt,Home Appliances,515.2465948730696,369,Supplier A,14,1
+719,Phone,Toys,686.3722758875888,499,Supplier A,38,2
+287,,Toys,,461,Supplier C,27,4
+912,Phone,Books,750.7157658700919,127,Supplier C,0,5
+197,Laptop,Electronics,995.7066784302525,430,Supplier A,4,3
+230,Laptop,Books,672.3374906134405,377,Supplier A,41,3
+904,Refrigerator,Books,503.6103981114201,324,Supplier B,21,5
+270,Refrigerator,Toys,924.7105088468795,441,Supplier B,35,2
+282,Refrigerator,Toys,35.53480538723878,291,Supplier C,45,3
+463,Laptop,Home Appliances,735.3250489001047,287,Supplier B,12,1
+138,Laptop,Home Appliances,890.9715864775367,225,Supplier B,0,3
+626,Refrigerator,Books,80.44109194853831,63,Supplier C,15,5
+987,Refrigerator,Clothing,461.062887007443,454,Supplier B,40,1
+596,Book,Clothing,220.62506487099893,425,Supplier A,21,3
+615,Refrigerator,Home Appliances,575.1878022760735,47,Supplier B,31,5
+448,Book,Clothing,,201,Supplier C,15,2
+496,Shirt,Home Appliances,316.5707192701799,497,Supplier A,14,5
+821,Laptop,Toys,,336,Supplier B,45,2
+260,Refrigerator,Books,293.7526955710283,413,Supplier A,41,1
+115,Laptop,Electronics,,404,Supplier A,11,5
+592,Laptop,Books,176.3491575546551,59,Supplier B,0,4
+525,,Home Appliances,887.8482547139188,396,Supplier B,16,4
+207,Shirt,Home Appliances,29.810202347953698,256,Supplier C,40,4
+993,Phone,Books,884.7610027149127,64,Supplier C,49,4
+549,Refrigerator,Home Appliances,580.2453007827437,238,Supplier A,27,4
+410,Phone,Clothing,,288,Supplier C,6,2
+838,Phone,Clothing,728.5959829511231,37,Supplier A,8,5
+269,Phone,Home Appliances,517.597108825411,24,Supplier A,21,1
+645,Laptop,Home Appliances,509.12648494545437,409,Supplier C,25,4
+513,Book,Clothing,127.93943726058711,460,Supplier C,11,4
+350,Laptop,Home Appliances,401.7257054265005,58,Supplier C,6,1
+858,Laptop,Home Appliances,256.2430589396019,475,Supplier B,45,1
+880,Phone,Books,35.381987484354056,416,Supplier A,46,4
+240,Laptop,Electronics,372.897638166471,356,Supplier A,14,2
+373,Phone,Clothing,108.02568683709265,382,Supplier A,37,1
+515,Book,Books,271.6934369706815,296,Supplier C,20,5
+707,Refrigerator,Electronics,110.66628875943256,157,Supplier C,13,5
+838,Phone,Home Appliances,,56,Supplier C,1,2
+990,Book,Home Appliances,215.03106852688452,432,Supplier C,7,3
+138,Refrigerator,Books,999.8522595966722,47,Supplier C,44,2
+913,Shirt,Home Appliances,22.140460000103797,327,Supplier B,5,4
+128,Phone,Toys,645.8991833979971,432,Supplier C,36,3
+576,Phone,Books,158.4188240660262,430,Supplier A,36,4
+417,Shirt,Electronics,922.2155739765603,55,Supplier C,32,5
+344,Shirt,Books,,64,Supplier A,40,1
+847,Phone,Clothing,955.9619233837118,267,Supplier C,5,4
+796,Shirt,Books,618.7078597338084,68,Supplier C,25,5
+371,Laptop,Home Appliances,,215,Supplier A,38,2
+539,Refrigerator,Home Appliances,896.1270539584699,389,Supplier A,40,4
+847,Refrigerator,Toys,531.27756533958,88,Supplier A,36,5
+338,Refrigerator,Toys,277.4163406238749,448,Supplier A,13,1
+476,Laptop,Toys,771.9335939653175,280,Supplier B,36,4
+365,Shirt,Electronics,928.1322428091325,256,Supplier A,7,5
+458,Book,Toys,494.017006683858,159,Supplier C,38,4
+439,,Electronics,329.2424049542487,489,Supplier C,12,1
+488,Phone,Toys,793.1662214562282,233,Supplier B,12,4
+676,Refrigerator,Electronics,688.1497878326855,130,Supplier A,39,4
+788,,Books,890.977434075267,-1,Supplier C,42,5
+102,Book,Books,,146,Supplier B,27,3
+528,Phone,Home Appliances,258.6577721215456,315,Supplier C,17,4
+241,Laptop,Electronics,933.0260647638387,490,Supplier B,18,3
+475,Laptop,Clothing,122.73903226187149,412,Supplier B,37,2
+769,Book,Home Appliances,,433,Supplier A,31,4
+423,Phone,Books,,1,Supplier B,21,3
+245,Refrigerator,Electronics,574.4271855494834,328,Supplier C,1,2
+392,Shirt,Toys,35.004374894367324,439,Supplier C,12,5
+764,Phone,Clothing,784.9612713045211,144,Supplier A,22,4
+531,Laptop,Books,374.3751720568817,443,Supplier A,24,5
+804,Book,Home Appliances,418.29017018209504,-1,Supplier B,27,2
+684,Book,Electronics,813.1821535482069,419,Supplier A,10,5
+498,Shirt,Clothing,391.6977238929937,60,Supplier C,32,5
+916,Book,Electronics,66.28037896485972,272,Supplier C,23,1
+988,Book,Toys,192.91097506094331,48,Supplier A,1,2
+443,Phone,Home Appliances,956.7851089404187,331,Supplier A,29,5
+239,Refrigerator,Electronics,,443,Supplier A,16,3
+286,Shirt,Books,367.8325769486559,403,Supplier B,39,2
+904,Phone,Home Appliances,513.1155837103177,433,Supplier B,33,1
+160,Refrigerator,Books,503.41521079178887,130,Supplier C,37,4
+479,Phone,Electronics,,42,Supplier B,21,5
+809,Phone,Home Appliances,,56,Supplier B,4,3
+906,Book,Books,396.097008817861,49,Supplier B,47,1
+539,Refrigerator,Toys,972.637748765066,451,Supplier B,39,2
+418,Shirt,Toys,,464,Supplier C,15,5
+401,Shirt,Electronics,,177,Supplier A,12,1
+443,,Home Appliances,431.09185538802336,292,Supplier C,25,1
+110,Book,Clothing,402.8796663589298,45,Supplier B,30,3
+161,Laptop,Home Appliances,672.5142110988253,169,Supplier A,38,4
+944,Phone,Toys,231.20260039681347,270,Supplier A,47,4
+325,Book,Books,236.650121757712,416,Supplier A,22,4
+252,Refrigerator,Clothing,734.6267295308361,335,Supplier C,47,2
+810,Phone,Electronics,510.28470830461606,138,Supplier A,11,1
+663,Shirt,Clothing,426.8525625361642,246,Supplier C,13,2
+871,Laptop,Electronics,185.81899064370677,147,Supplier C,17,1
+670,Shirt,Clothing,203.77667845392327,229,Supplier B,26,3
+683,,Electronics,30.340604079582533,279,Supplier B,27,3
+759,Phone,Electronics,109.59774348447505,124,Supplier A,17,2
+960,Refrigerator,Clothing,565.7019207964362,191,Supplier A,15,2
+674,Phone,Clothing,894.0356674082417,373,Supplier B,15,3
+409,Book,Electronics,301.4214698279463,79,Supplier C,12,5
+984,Laptop,Toys,,93,Supplier C,28,4
+342,Book,Clothing,133.29349839928196,225,Supplier B,8,4
+592,Book,Home Appliances,,64,Supplier C,25,3
+465,Refrigerator,Books,56.477270477942575,87,Supplier B,27,4
+429,Laptop,Electronics,919.2486823366622,87,Supplier B,40,5
+206,Phone,Electronics,679.6491211620381,200,Supplier A,12,5
+325,Phone,Books,990.9338332053545,213,Supplier A,35,1
+924,Shirt,Toys,885.1666994249239,203,Supplier B,8,2
+317,Phone,Books,483.5307818241896,400,Supplier A,46,4
+852,,Clothing,529.2913305273694,381,Supplier B,13,5
+605,Book,Books,206.76452558684997,88,Supplier C,11,2
+358,Book,Electronics,472.7985559827645,475,Supplier C,31,2
+987,Book,Books,904.9673160229554,60,Supplier C,37,1
+873,Laptop,Home Appliances,69.83635516310471,270,Supplier C,2,2
+616,Phone,Clothing,866.2856669383435,93,Supplier B,15,2
+872,Refrigerator,Books,354.12884560975755,306,Supplier C,19,3
+153,Laptop,Electronics,901.5225097943836,-1,Supplier C,31,1
+146,Shirt,Clothing,942.062308214655,213,Supplier C,22,1
+826,Refrigerator,Electronics,677.4475892618678,73,Supplier C,16,4
+788,,Toys,,60,Supplier B,15,2
+620,Refrigerator,Home Appliances,463.6992509545653,185,Supplier C,37,4
+198,Book,Toys,,30,Supplier A,7,5
+119,Refrigerator,Home Appliances,962.3805032646176,218,Supplier A,18,2
+989,Phone,Books,779.5801643323368,11,Supplier A,29,5
+852,Refrigerator,Clothing,629.497999081575,301,Supplier A,33,3
+672,Book,Books,614.65703790491,414,Supplier A,13,2
+990,Refrigerator,Home Appliances,852.480503551989,31,Supplier A,21,4
+589,Shirt,Home Appliances,550.3796904558724,159,Supplier B,43,4
+518,Shirt,Home Appliances,807.7826885238462,488,Supplier A,16,2
+789,Book,Electronics,518.7075500707608,236,Supplier C,14,4
+949,Phone,Clothing,81.19538947444565,226,Supplier A,49,2
+161,,Books,396.2680687260721,180,Supplier B,47,1
+244,Laptop,Books,455.5521385180687,316,Supplier A,31,4
+315,Book,Toys,158.78490008688487,45,Supplier C,12,2
+102,Refrigerator,Home Appliances,120.44640260542856,340,Supplier C,20,2
+259,Book,Home Appliances,544.755650663815,457,Supplier B,48,4
+838,Laptop,Home Appliances,103.4407638249605,79,Supplier B,39,1
+880,,Books,316.88626453228227,-1,Supplier B,32,4
+219,Book,Toys,749.7050364438144,259,Supplier B,26,2
+992,Laptop,Electronics,965.1435359766211,474,Supplier A,34,1
+188,Phone,Clothing,723.51316894089,307,Supplier A,15,5
+428,Refrigerator,Electronics,992.7730374838128,246,Supplier C,27,3
+679,Laptop,Books,704.3712118538147,472,Supplier B,33,4
+456,Shirt,Home Appliances,307.918581241241,158,Supplier B,46,2
+709,Phone,Clothing,,202,Supplier A,0,1
+366,Shirt,Books,708.1136298929657,111,Supplier B,40,1
+716,Phone,Books,384.29244492413136,467,Supplier C,47,5
+422,Refrigerator,Books,37.35957359720123,291,Supplier C,30,4
+734,Refrigerator,Clothing,709.1357890799773,437,Supplier B,35,1
+640,Book,Clothing,41.26609337003079,309,Supplier C,43,5
+748,,Toys,638.5643164988697,118,Supplier C,32,2
+294,Phone,Toys,180.34415896770398,382,Supplier A,32,5
+837,Refrigerator,Electronics,574.2914571930825,16,Supplier C,38,4
+431,Laptop,Clothing,513.834764872988,492,Supplier B,17,5
+269,Refrigerator,Clothing,33.24336946005892,330,Supplier B,22,1
+620,Laptop,Clothing,375.6085006552014,413,Supplier C,22,1
+562,Phone,Toys,609.0693440483767,226,Supplier B,14,3
+139,Refrigerator,Books,851.6344208608042,360,Supplier A,25,5
+636,Refrigerator,Home Appliances,890.869271559787,-1,Supplier C,29,2
+360,Phone,Toys,,405,Supplier C,24,4
+494,Refrigerator,Clothing,733.8540375534494,116,Supplier C,44,3
+325,Laptop,Toys,330.1254850027885,42,Supplier B,15,5
+223,,Electronics,355.3426776434843,367,Supplier B,38,2
+137,Shirt,Clothing,210.57424879866747,114,Supplier C,47,3
+427,Book,Electronics,570.7091477933745,282,Supplier B,44,1
+350,Laptop,Clothing,328.27286790881794,36,Supplier B,13,4
+275,Shirt,Toys,102.68347850973494,301,Supplier C,16,5
+701,,Books,691.3059649299151,112,Supplier C,11,2
+553,Laptop,Home Appliances,713.5981434532902,34,Supplier B,28,1
+136,Book,Electronics,372.7925704034767,131,Supplier C,31,3
+415,Book,Toys,95.18893146690235,335,Supplier C,23,4
+787,Phone,Books,437.7717630553574,335,Supplier C,12,3
+895,Phone,Toys,,468,Supplier C,19,3
+692,Laptop,Electronics,675.2974671999351,409,Supplier B,14,2
+213,Refrigerator,Home Appliances,329.1080634335098,376,Supplier C,3,1
+139,Phone,Toys,688.9472941856793,227,Supplier A,33,5
+400,Refrigerator,Clothing,,146,Supplier C,27,2
+323,,Books,,-1,Supplier A,49,4
+417,Book,Toys,979.3411649975018,80,Supplier C,1,3
+448,Refrigerator,Books,398.64077439407083,172,Supplier A,46,4
+214,Book,Clothing,281.9135114441205,153,Supplier A,29,2
+797,Refrigerator,Home Appliances,433.0809588600847,149,Supplier C,25,2
+422,Shirt,Home Appliances,112.50952638578198,374,Supplier C,46,5
+667,Phone,Clothing,143.19178838187335,57,Supplier C,25,3
+139,Shirt,Books,426.14536602896476,62,Supplier A,19,2
+965,Phone,Toys,767.1956315003181,155,Supplier B,41,4
+139,Phone,Clothing,902.3059947830011,448,Supplier B,27,5
+958,Book,Electronics,671.5216309019455,427,Supplier C,19,4
